@@ -1,12 +1,13 @@
 # ossapps
 A non-exhaustive list of open source clock faces, applications and modules from the community. Please make a PR request to add yours in the list. The end goal is to provide inspiration and code examples for developers and hopefully give some visibility to your masterpiece.
 
-The project are listed in alphabetical order by category. Please add your clock face, app, module in the same format as below. Only open source code will be listed here.
+**The apps are listed in alphabetical order by category.** Please add your clock face, app, module in the same format as below. Only open source code will be listed here.
 
 Note that Fitbit isn't responsible for the projects listed below.
 
 ## Clock faces
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
+* [ElegantClock](https://github.com/baydevelopments/ElegantClock) by Allyann @ Baydevelopments - Elegent clockface for Fitbit OS
 * [Fitbit-Clock-Face](https://github.com/j-snow/Fitbit-Clock-Face) by J Snow - Fitbit Clock Face
 * [fitbit-minimalist-clock-face](https://github.com/chandanv89/fitbit-minimalist-clock-face) by Chandan Veerabhadrappa - A minimalistic clock-face for the new Fitbit Ionic.
 
