@@ -14,7 +14,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [FlashRing](https://gitlab.com/private-software/fitbit-flashring2-watchface.git) by Sam - Watchface with big clock, localised date and display of the current heartrate, steps, burned calories, elevation gain and active minutes.
 
 ## Apps
-* Add yours...
+* [Run Goal](https://github.com/kencaron/fitbit-os-run-goal-app) by Ken Caron - Displays your weekly running activity. Mildly typescript enhanced, uses Web API, settings, refreshes your access tokens, leverages the File Transfer API for communication.
 
 ## Games
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
