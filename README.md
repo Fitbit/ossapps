@@ -6,10 +6,12 @@ A non-exhaustive list of open source clock faces, applications and modules from 
 Note that Fitbit isn't responsible for the projects listed below.
 
 ## Clock faces
+* [ClearBeam](https://gitlab.com/private-software/fitbit-clearbeam-watchface.git) by Sam - Clear watchface with heartrate-display and four progress-beams for steps, burned calories, elevation and active minutes.
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
 * [ElegantClock](https://github.com/baydevelopments/ElegantClock) by Allyann @ Baydevelopments - Elegent clockface for Fitbit OS
 * [Fitbit-Clock-Face](https://github.com/j-snow/Fitbit-Clock-Face) by J Snow - Fitbit Clock Face
 * [fitbit-minimalist-clock-face](https://github.com/chandanv89/fitbit-minimalist-clock-face) by Chandan Veerabhadrappa - A minimalistic clock-face for the new Fitbit Ionic.
+* [FlashRing](https://gitlab.com/private-software/fitbit-flashring2-watchface.git) by Sam - Watchface with big clock, localised date and display of the current heartrate, steps, burned calories, elevation gain and active minutes.
 
 ## Apps
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
