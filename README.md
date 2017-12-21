@@ -12,9 +12,11 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Fitbit-Clock-Face](https://github.com/j-snow/Fitbit-Clock-Face) by J Snow - Fitbit Clock Face
 * [fitbit-minimalist-clock-face](https://github.com/chandanv89/fitbit-minimalist-clock-face) by Chandan Veerabhadrappa - A minimalistic clock-face for the new Fitbit Ionic.
 * [FlashRing](https://gitlab.com/private-software/fitbit-flashring2-watchface.git) by Sam - Watchface with big clock, localised date and display of the current heartrate, steps, burned calories, elevation gain and active minutes.
+* [Kearsarge-Time](https://github.com/cmspooner/Kearsarge-Time-for-Fitbit-Ionic) by Chris Spooner - A Watchface that shows the current period and time remaining for Kearsarge High School. It also displays the days current calendar. Code is written to be easily adapted for other schedules.
+* [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
 
 ## Apps
-* Add yours...
+* [Flashlight](https://github.com/cmspooner/Flashlight-App-for-FitBit-Ionic) by Chris Spooner - A basic flashlight for Fitbit Ionic
 
 ## Games
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
