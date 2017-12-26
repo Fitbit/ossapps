@@ -23,6 +23,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
 
 ## Modules
+* [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS
 
 ## SDK Examples
