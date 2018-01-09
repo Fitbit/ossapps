@@ -30,6 +30,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS
+* [MeterWidget](https://github.com/kmpm/fitbit-meter-widget) by Peter Magnusson - Some simple round meters using arcs and grayscale magic with js helpers.
 
 ## SDK Examples
 * [Altimeter](https://github.com/Fitbit/sdk-altimeter) by Team Fitbit - Fitbit SDK example application which simulates an altimeter using the Barometer sensor.
