@@ -8,6 +8,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 ## Clock faces
 * [ClearBeam](https://gitlab.com/private-software/fitbit-clearbeam-watchface.git) by Sam - Clear watchface with heartrate-display and four progress-beams for steps, burned calories, elevation and active minutes.
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
+* [Darkface](https://github.com/rootasjey/darkface) by Jérémie Corpinot - Minimalistic dark clockface with bold/light typography
 * [Doge Watch](https://github.com/tylerl0706/DogeWatch-Fitbit) by Tyler Leonhardt - such time. very watchface. wow.
 * [ElegantClock](https://github.com/baydevelopments/ElegantClock) by Allyann @ Baydevelopments - Elegant clockface for Fitbit OS
 * [FitbitArcs](https://github.com/robro/FitbitArcs) by robro - A simple and circular watch face for Fitbit OS.
