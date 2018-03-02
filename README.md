@@ -22,6 +22,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
 
 ## Apps
+* [Bail Out!](https://github.com/nexmo-community/fitbit-bail-out) by Mark Smith - Press a button on your Ionic and have your phone ring (to get out of bad dates)! A silly Ionic app with a companion app and the [Nexmo Voice API](https://developer.nexmo.com/api/voice). There's also a [blog post](https://www.nexmo.com/blog/2018/03/02/getting-bad-date-fitbit-nexmo-dr/) explaining how it works.
 * [Barcodes](https://github.com/tyuen/fitbit-barcodes-app) by Terry Yuen - Store barcodes on the Ionic for convenient access
 * [Flashlight](https://github.com/cmspooner/Flashlight-App-for-FitBit-Ionic) by Chris Spooner - A basic flashlight for Fitbit Ionic
 * [Pomodoro](https://github.com/johnliu55tw/Pomodoro-Ionic) by John Liu - The Pomodoro timer. This is an app version of the [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic), which only has basic functions.
