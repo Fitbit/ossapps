@@ -1,7 +1,7 @@
 # ossapps
 A non-exhaustive list of open source clock faces, applications and modules from the community. Please make a PR request to add yours in the list. The end goal is to provide inspiration and code examples for developers and hopefully give some visibility to your masterpiece.
 
-**The apps are listed in alphabetical order by category.** Please add your clock face, app, module in the same format as below. Only open source code will be listed here.
+**All repositories are listed in alphabetical order within each category.** Please add your clock face, app, game or module in the same format as below. Only open source code will be listed here.
 
 Note that Fitbit isn't responsible for the projects listed below.
 
