@@ -40,11 +40,11 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [MeterWidget](https://github.com/kmpm/fitbit-meter-widget) by Peter Magnusson - Some simple round meters using arcs and grayscale magic with js helpers.
 * [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS
 
-## SDK Examples
+## Examples
 * [Altimeter](https://github.com/Fitbit/sdk-altimeter) by Team Fitbit - Fitbit SDK example application which simulates an altimeter using the Barometer sensor.
 * [Bay Area Rapid Transit (BART)](https://github.com/Fitbit/sdk-bart) by Thomas Sarlandie - Fitbit SDK example application which downloads real-time BART data and show upcoming trains for a station of your choice.
 * [Communications Demo](https://github.com/sammachin/Fitbit-MessageDemo) by Sam Machin - Example app for the Fitbit Ionic showing Messaging and Fetch to a basic WebAPI.
 * [HR Meter](https://github.com/Fitbit/sdk-hr-meter) by Team Fitbit - Fitbit SDK example application which displays readings from the Heart Rate sensor.
 * [LCD Clock Face](https://github.com/Fitbit/sdk-lcd-clock) by Jon Barlow - Fitbit SDK example application which looks like a retro LCD digital clock.
-* [Settings Redirect](https://github.com/daveyjones/fitbit-demos/tree/master/settings-redirect) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
 * [SDK OAuth](https://github.com/Fitbit/sdk-oauth) by Jon Barlow - A sample application which uses the Settings API OAuth component, and the Fitbit Web API to query sleep data.
+* [Settings Redirect](https://github.com/daveyjones/fitbit-demos/tree/master/settings-redirect) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
