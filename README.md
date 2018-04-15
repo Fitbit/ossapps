@@ -51,3 +51,4 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [LCD Clock Face](https://github.com/Fitbit/sdk-lcd-clock) by Jon Barlow - Fitbit SDK example application which looks like a retro LCD digital clock.
 * [SDK OAuth](https://github.com/Fitbit/sdk-oauth) by Jon Barlow - A sample application which uses the Settings API OAuth component, and the Fitbit Web API to query sleep data.
 * [Settings Redirect](https://github.com/daveyjones/fitbit-demos/tree/master/settings-redirect) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
+* [Settings with File transfer](https://github.com/KiezelPay/fitbit-file-transfer-settings) by Kristof Verpoorten - Very simple example showing how to use the file transfer API for settings. As an added bonus settings are also stored on the watch and loaded from filesystem again on each app start.
