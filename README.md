@@ -40,6 +40,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 ## Modules
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
+* [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
 * [MeterWidget](https://github.com/kmpm/fitbit-meter-widget) by Peter Magnusson - Some simple round meters using arcs and grayscale magic with js helpers.
 * [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS
 
