@@ -16,11 +16,13 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Fitbit-Clock-Face](https://github.com/j-snow/Fitbit-Clock-Face) by J Snow - Fitbit Clock Face
 * [fitbit-minimalist-clock-face](https://github.com/chandanv89/fitbit-minimalist-clock-face) by Chandan Veerabhadrappa - A minimalistic clock-face for the new Fitbit Ionic.
 * [FlashRing](https://gitlab.com/private-software/fitbit-flashring2-watchface.git) by Sam - Watchface with big clock, localised date and display of the current heartrate, steps, burned calories, elevation gain and active minutes.
+* [ForecastTime](https://github.com/cmspooner/ForecastTime) by Chris Spooner - A weather only version of Kearsarge Time. It includes two subscreens for the day's stats and 3 day forecast using Grégoire's weather api.
 * [Kearsarge-Time](https://github.com/cmspooner/Kearsarge-Time-for-Fitbit-Ionic) by Chris Spooner - A Watchface for Ionic and Versa that shows the current period and time remaining for Kearsarge High School. It includes two subscreens for the day's stats and the day's schedule. Code is written to be easily adapted for other schedules by editing Schedule.js. When not in school it now shows the weather and 3 day forecast using Grégoire's weather api. 
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect)
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
+* [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
 
 ## Apps
 * [Bail Out!](https://github.com/nexmo-community/fitbit-bail-out) by Mark Smith - Press a button on your Ionic and have your phone ring (to get out of bad dates)! A silly Ionic app with a companion app and the [Nexmo Voice API](https://developer.nexmo.com/api/voice). There's also a [blog post](https://www.nexmo.com/blog/2018/03/02/getting-bad-date-fitbit-nexmo-dr/) explaining how it works.
