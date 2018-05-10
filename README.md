@@ -12,6 +12,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Darkface](https://github.com/rootasjey/darkface) by Jérémie Corpinot - Minimalistic dark clockface with bold/light typography
 * [Doge Watch](https://github.com/tylerl0706/DogeWatch-Fitbit) by Tyler Leonhardt - such time. very watchface. wow.
 * [ElegantClock](https://github.com/baydevelopments/ElegantClock) by Allyann @ Baydevelopments - Elegant clockface for Fitbit OS
+* [fitbit_C64](https://github.com/epatel/fitbit_C64) Retro clock face for Fitbit watch OS
 * [FitbitArcs](https://github.com/robro/FitbitArcs) by robro - A simple and circular watch face for Fitbit OS.
 * [Fitbit-Clock-Face](https://github.com/j-snow/Fitbit-Clock-Face) by J Snow - Fitbit Clock Face
 * [fitbit-minimalist-clock-face](https://github.com/chandanv89/fitbit-minimalist-clock-face) by Chandan Veerabhadrappa - A minimalistic clock-face for the new Fitbit Ionic.
