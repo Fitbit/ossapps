@@ -6,6 +6,7 @@ A non-exhaustive list of open source clock faces, applications and modules from 
 Note that Fitbit isn't responsible for the projects listed below.
 
 ## Clock faces
+* [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
 * [Borderlands](https://github.com/ViGouRCanberra/ionic-watchface-borderlands) by Le-Roux Enslin - A Watchface based on the UI of the PC game Borderlands 2
 * [ClearBeam](https://gitlab.com/private-software/fitbit-clearbeam-watchface.git) by Sam - Clear watchface with heartrate-display and four progress-beams for steps, burned calories, elevation and active minutes.
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
