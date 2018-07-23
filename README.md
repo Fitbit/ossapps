@@ -34,6 +34,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Barcodes](https://github.com/tyuen/fitbit-barcodes-app) by Terry Yuen - Store barcodes on the Ionic for convenient access
 * [Flashlight](https://github.com/cmspooner/Flashlight-App-for-FitBit-Ionic) by Chris Spooner - A basic flashlight for Fitbit Ionic
 * [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use. 
+* [Habitica](https://github.com/tramzel/habitica-fitbit) by Taylor Ramzel - An app that leverages the Habitica API to update your tasks from your Fitbit.
 * [KP-Sales](https://github.com/PlummerNL/KP-Sales) by COSS - Fitbit Ionic app for tracking your KPay sales combined with a fancy clock.
 * [Pomodoro](https://github.com/johnliu55tw/Pomodoro-Ionic) by John Liu - The Pomodoro timer. This is an app version of the [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic), which only has basic functions.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
