@@ -42,6 +42,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
 * [Run Goal](https://github.com/kencaron/fitbit-os-run-goal-app) by Ken Caron - Displays your weekly running activity. Mildly typescript enhanced, uses Web API, settings, refreshes your access tokens, leverages the File Transfer API for communication.
 * [Schedule](https://github.com/blueset/fitbit-schedule) by Eana Hufwe — A schedule/agenda viewer for Fitbit OS 2. Supports Google Calendar and planning to add more.
+* [Things](https://github.com/Ed2Bs/fitbit-things-app) by Edin Bajrambasic - Things is a lightweight app that lets you control Samsung SmartThings scenes and devices from Fitbit watch.
 * [Water Logged](https://github.com/tylerl0706/Water-Logged) by Tyler Leonhardt -  Log your water consumption at your wrist on your Fitbit Ionic!
 * [WeatherCast](https://github.com/cmspooner/Weather-and-Forecast) by Chris Spooner - A Weather and forcast app using scrollview and a modified version of Grégoire Sage's weather API
 * [Week Number](https://github.com/IanSavchenko/fitbit-week-number) by Ian Savchenko - A small app that shows you current and past/upcoming ISO week number. Has touch gestures handling and animations.
