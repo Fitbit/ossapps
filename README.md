@@ -38,6 +38,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use. 
 * [Habitica](https://github.com/tramzel/habitica-fitbit) by Taylor Ramzel - An app that leverages the Habitica API to update your tasks from your Fitbit.
 * [KP-Sales](https://github.com/PlummerNL/KP-Sales) by COSS - Fitbit Ionic app for tracking your KPay sales combined with a fancy clock.
+* [Map](https://github.com/tyuen/fitbit-map-app) by Terry Yuen - Shows a panable and zoomable map of your current location using the HERE platform
 * [Pomodoro](https://github.com/johnliu55tw/Pomodoro-Ionic) by John Liu - The Pomodoro timer. This is an app version of the [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic), which only has basic functions.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
 * [Run Goal](https://github.com/kencaron/fitbit-os-run-goal-app) by Ken Caron - Displays your weekly running activity. Mildly typescript enhanced, uses Web API, settings, refreshes your access tokens, leverages the File Transfer API for communication.
@@ -45,7 +46,6 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Water Logged](https://github.com/tylerl0706/Water-Logged) by Tyler Leonhardt -  Log your water consumption at your wrist on your Fitbit Ionic!
 * [WeatherCast](https://github.com/cmspooner/Weather-and-Forecast) by Chris Spooner - A Weather and forcast app using scrollview and a modified version of Grégoire Sage's weather API
 * [Week Number](https://github.com/IanSavchenko/fitbit-week-number) by Ian Savchenko - A small app that shows you current and past/upcoming ISO week number. Has touch gestures handling and animations.
-* [Map](https://github.com/tyuen/fitbit-map-app) by Terry Yuen - Shows a panable and zoomable map of your current location using the HERE platform
 
 ## Games
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
