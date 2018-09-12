@@ -45,6 +45,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Water Logged](https://github.com/tylerl0706/Water-Logged) by Tyler Leonhardt -  Log your water consumption at your wrist on your Fitbit Ionic!
 * [WeatherCast](https://github.com/cmspooner/Weather-and-Forecast) by Chris Spooner - A Weather and forcast app using scrollview and a modified version of Grégoire Sage's weather API
 * [Week Number](https://github.com/IanSavchenko/fitbit-week-number) by Ian Savchenko - A small app that shows you current and past/upcoming ISO week number. Has touch gestures handling and animations.
+* [Map](https://github.com/tyuen/fitbit-map-app) by Terry Yuen - Shows a panable and zoomable map of your current location using the HERE platform
 
 ## Games
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
