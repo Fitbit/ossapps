@@ -31,6 +31,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
 * [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
+* [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
 
 ## Apps
 * [Authenticator](https://github.com/Lixxia/fitbit-authenticator) by Laura Barber - Receive two-factor authentication codes on your Fitbit Versa!
