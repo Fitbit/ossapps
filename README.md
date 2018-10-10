@@ -20,7 +20,6 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [FitbitArcs](https://github.com/robro/FitbitArcs) by robro - A simple and circular watch face for Fitbit OS.
 * [Fitbit-Clock-Face](https://github.com/j-snow/Fitbit-Clock-Face) by J Snow - Fitbit Clock Face
 * [fitbit-minimalist-clock-face](https://github.com/chandanv89/fitbit-minimalist-clock-face) by Chandan Veerabhadrappa - A minimalistic clock-face for the new Fitbit Ionic.
-* [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
 * [FlashRing](https://gitlab.com/private-software/fitbit-flashring2-watchface.git) by Sam - Watchface with big clock, localised date and display of the current heartrate, steps, burned calories, elevation gain and active minutes.
 * [ForecastTime](https://github.com/cmspooner/ForecastTime) by Chris Spooner - A weather only version of Kearsarge Time. It includes two subscreens for the day's stats and 3 day forecast using Grégoire's weather api.
 * [Goal Rings](https://github.com/eblohm/fitbit-goal-rings) by Eric Blohm - Stats-heavy with rings to show progress towards each activity goal. For Fitbit Versa
@@ -28,7 +27,9 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect)
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
+* [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
+* [Roni](https://github.com/baronVonPerko/fitbit-roni) by Chris Perko - Basic digital watchface that includes example of color settings on the companion, and touch to toggle between heartrate and step count.
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
 * [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
