@@ -25,6 +25,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Goal Rings](https://github.com/eblohm/fitbit-goal-rings) by Eric Blohm - Stats-heavy with rings to show progress towards each activity goal. For Fitbit Versa
 * [Kearsarge-Time](https://github.com/cmspooner/Kearsarge-Time-for-Fitbit-Ionic) by Chris Spooner - A Watchface for Ionic and Versa that shows the current period and time remaining for Kearsarge High School. It includes two subscreens for the day's stats and the day's schedule. Code is written to be easily adapted for other schedules by editing Schedule.js. When not in school it now shows the weather and 3 day forecast using Grégoire's weather api. 
 * [Medical Professional](https://github.com/mmk0083/fitbit-mp-clock) by mmk0083 - Simple analog clock for easily taking vitals. Tap the device screen to lock the screen on. Tap again to restore auto-off. Also includes a night-mode that shifts color during specified hours.
+* [Metrix](https://github.com/rootasjey/metrix-fitbit) by Jérémie Corpinot - A metrics clock face
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect)
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
