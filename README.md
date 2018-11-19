@@ -6,6 +6,7 @@ A non-exhaustive list of open source clock faces, applications and modules from 
 Note that Fitbit isn't responsible for the projects listed below.
 
 ## Clock faces
+* [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Hevy customizable clock face.
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
 * [Arcular](https://github.com/reverseloop/fitbit-arcular) by reverseloop - Simple and clear analog clock face for Ionic and Versa models.
 * [Borderlands](https://github.com/ViGouRCanberra/ionic-watchface-borderlands) by Le-Roux Enslin - A Watchface based on the UI of the PC game Borderlands 2
