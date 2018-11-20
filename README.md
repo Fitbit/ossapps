@@ -6,7 +6,6 @@ A non-exhaustive list of open source clock faces, applications and modules from 
 Note that Fitbit isn't responsible for the projects listed below.
 
 ## Clock faces
-
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
 * [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Heavy customizable clock face.
 * [Arcular](https://github.com/reverseloop/fitbit-arcular) by reverseloop - Simple and clear analog clock face for Ionic and Versa models.
