@@ -31,6 +31,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect)
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
+* [Really Basic] (https://github.com/gpfrello/FitbitOS-Really-Basic) by Giampaolo Frello - Really basic clockface with lots of comments to be able to understand the minimum components needed to build a digital clockface
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
 * [Roni](https://github.com/baronVonPerko/fitbit-roni) by Chris Perko - Basic digital watchface that includes example of color settings on the companion, and touch to toggle between heartrate and step count.
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
