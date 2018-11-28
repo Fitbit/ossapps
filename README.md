@@ -8,7 +8,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 ## Clock faces
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
 * [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Heavy customizable clock face.
-* [AND v2](https://github.com/ahsandar/ANDv2) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Time focuded stats Heavy customizable clock face.
+* [AND v2](https://github.com/ahsandar/ANDv2) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Time focused stats Heavy customizable clock face.
 * [Arcular](https://github.com/reverseloop/fitbit-arcular) by reverseloop - Simple and clear analog clock face for Ionic and Versa models.
 * [Borderlands](https://github.com/ViGouRCanberra/ionic-watchface-borderlands) by Le-Roux Enslin - A Watchface based on the UI of the PC game Borderlands 2
 * [Brick Face](https://github.com/tshiamobhuda/brickface) by Tshiamo Bhuda - Simple clock face inspired by the classic green/black monochromatic LED screen, all themed in a Brick style (Brick Game)
