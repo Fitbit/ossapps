@@ -41,6 +41,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
 
 ## Apps
+* [Air Quality](https://github.com/Ed2Bs/fitbit-air-quality-app) by Edin Bajrambasic - See air quality reports from 10k monitoring stations around the world.
 * [Authenticator](https://github.com/Lixxia/fitbit-authenticator) by Laura Barber - Receive two-factor authentication codes on your Fitbit Versa!
 * [Bail Out!](https://github.com/nexmo-community/fitbit-bail-out) by Mark Smith - Press a button on your Ionic and have your phone ring (to get out of bad dates)! A silly Ionic app with a companion app and the [Nexmo Voice API](https://developer.nexmo.com/api/voice). There's also a [blog post](https://www.nexmo.com/blog/2018/03/02/getting-bad-date-fitbit-nexmo-dr/) explaining how it works.
 * [Barcodes](https://github.com/tyuen/fitbit-barcodes-app) by Terry Yuen - Store barcodes on the Ionic for convenient access
