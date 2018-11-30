@@ -62,13 +62,13 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
 
 ## Modules
+* [Fitbit ASAP](https://github.com/dillpixel/fitbit-asap) by David Jones - Send peer messages on Fitbit OS without worrying about connection state.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
 * [MeterWidget](https://github.com/kmpm/fitbit-meter-widget) by Peter Magnusson - Some simple round meters using arcs and grayscale magic with js helpers.
 * [Realistic HRM animation](https://github.com/KiezelPay/Fitbit_Realistic_HRM) by Kristof Verpoorten - Shows an HR animation in the same frequency as the user's heartrate when the display is on. Disables the animation and icon when the watch is taken off.
 * [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS
-* [Fitbit ASAP](https://github.com/dillpixel/fitbit-asap) by David Jones - Send peer messages on Fitbit OS without worrying about connection state.
 
 ## Examples
 * [Altimeter](https://github.com/Fitbit/sdk-altimeter) by Team Fitbit - Fitbit SDK example application which simulates an altimeter using the Barometer sensor.
@@ -78,6 +78,6 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [IFTTT Web Service Demo](https://github.com/Fitbit/sdk-ifttt-demo) by Jon Barlow - Fitbit SDK example which demonstrates how to call a web service (REST API) using `fetch()`.
 * [LCD Clock Face](https://github.com/Fitbit/sdk-lcd-clock) by Jon Barlow - Fitbit SDK example application which looks like a retro LCD digital clock.
 * [SDK OAuth](https://github.com/Fitbit/sdk-oauth) by Jon Barlow - A sample application which uses the Settings API OAuth component, and the Fitbit Web API to query sleep data.
-* [Webconfig Demo](https://github.com/dillpixel/fitbit-webconfig-demo) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
 * [Settings with File transfer](https://github.com/KiezelPay/fitbit-file-transfer-settings) by Kristof Verpoorten - Very simple example showing how to use the file transfer API for settings. As an added bonus settings are also stored on the watch and loaded from filesystem again on each app start.
 * [Using Jest for testing app code](https://github.com/ihassin/fitbit-coachusa) by Itamar Hassin - Shows the required ```includes``` and some trickery to get tests running in your local env and stay compatible with Studio's way of doing things.
+* [Webconfig Demo](https://github.com/dillpixel/fitbit-webconfig-demo) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
