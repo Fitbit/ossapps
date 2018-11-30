@@ -26,7 +26,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [FlashRing](https://gitlab.com/private-software/fitbit-flashring2-watchface.git) by Sam - Watchface with big clock, localised date and display of the current heartrate, steps, burned calories, elevation gain and active minutes.
 * [ForecastTime](https://github.com/cmspooner/ForecastTime) by Chris Spooner - A weather only version of Kearsarge Time. It includes two subscreens for the day's stats and 3 day forecast using Grégoire's weather api.
 * [Goal Rings](https://github.com/eblohm/fitbit-goal-rings) by Eric Blohm - Stats-heavy with rings to show progress towards each activity goal. For Fitbit Versa
-* [Kearsarge-Time](https://github.com/cmspooner/Kearsarge-Time-for-Fitbit-Ionic) by Chris Spooner - A Watchface for Ionic and Versa that shows the current period and time remaining for Kearsarge High School. It includes two subscreens for the day's stats and the day's schedule. Code is written to be easily adapted for other schedules by editing Schedule.js. When not in school it now shows the weather and 3 day forecast using Grégoire's weather api. 
+* [Kearsarge-Time](https://github.com/cmspooner/Kearsarge-Time-for-Fitbit-Ionic) by Chris Spooner - A Watchface for Ionic and Versa that shows the current period and time remaining for Kearsarge High School. It includes two subscreens for the day's stats and the day's schedule. Code is written to be easily adapted for other schedules by editing Schedule.js. When not in school it now shows the weather and 3 day forecast using Grégoire's weather api.
 * [Medical Professional](https://github.com/mmk0083/fitbit-mp-clock) by mmk0083 - Simple analog clock for easily taking vitals. Tap the device screen to lock the screen on. Tap again to restore auto-off. Also includes a night-mode that shifts color during specified hours.
 * [Metrix](https://github.com/rootasjey/metrix-fitbit) by Jérémie Corpinot - A metrics clock face
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
@@ -46,7 +46,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Bail Out!](https://github.com/nexmo-community/fitbit-bail-out) by Mark Smith - Press a button on your Ionic and have your phone ring (to get out of bad dates)! A silly Ionic app with a companion app and the [Nexmo Voice API](https://developer.nexmo.com/api/voice). There's also a [blog post](https://www.nexmo.com/blog/2018/03/02/getting-bad-date-fitbit-nexmo-dr/) explaining how it works.
 * [Barcodes](https://github.com/tyuen/fitbit-barcodes-app) by Terry Yuen - Store barcodes on the Ionic for convenient access
 * [Flashlight](https://github.com/cmspooner/Flashlight-App-for-FitBit-Ionic) by Chris Spooner - A basic flashlight for Fitbit Ionic
-* [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use. 
+* [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use.
 * [Habitica](https://github.com/tramzel/habitica-fitbit) by Taylor Ramzel - An app that leverages the Habitica API to update your tasks from your Fitbit.
 * [KP-Sales](https://github.com/PlummerNL/KP-Sales) by COSS - Fitbit Ionic app for tracking your KPay sales combined with a fancy clock.
 * [Map](https://github.com/tyuen/fitbit-map-app) by Terry Yuen - Shows a panable and zoomable map of your current location using the HERE platform
@@ -62,6 +62,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
 
 ## Modules
+* [Fitbit ASAP](https://github.com/dillpixel/fitbit-asap) by David Jones - Send peer messages on Fitbit OS without worrying about connection state.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
@@ -77,6 +78,6 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [IFTTT Web Service Demo](https://github.com/Fitbit/sdk-ifttt-demo) by Jon Barlow - Fitbit SDK example which demonstrates how to call a web service (REST API) using `fetch()`.
 * [LCD Clock Face](https://github.com/Fitbit/sdk-lcd-clock) by Jon Barlow - Fitbit SDK example application which looks like a retro LCD digital clock.
 * [SDK OAuth](https://github.com/Fitbit/sdk-oauth) by Jon Barlow - A sample application which uses the Settings API OAuth component, and the Fitbit Web API to query sleep data.
-* [Settings Redirect](https://github.com/daveyjones/fitbit-demos/tree/master/settings-redirect) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
 * [Settings with File transfer](https://github.com/KiezelPay/fitbit-file-transfer-settings) by Kristof Verpoorten - Very simple example showing how to use the file transfer API for settings. As an added bonus settings are also stored on the watch and loaded from filesystem again on each app start.
-* [Using Jest for testing app code](https://github.com/ihassin/fitbit-coachusa) by Itamar Hassin - Shows the required ```includes``` and some trickery to get tests running in your local env and stay compatible with Studio's way of doing things. 
+* [Using Jest for testing app code](https://github.com/ihassin/fitbit-coachusa) by Itamar Hassin - Shows the required ```includes``` and some trickery to get tests running in your local env and stay compatible with Studio's way of doing things.
+* [Webconfig Demo](https://github.com/dillpixel/fitbit-webconfig-demo) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
