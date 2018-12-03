@@ -63,6 +63,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 
 ## Modules
 * [Fitbit ASAP](https://github.com/dillpixel/fitbit-asap) by David Jones - Send peer messages on Fitbit OS without worrying about connection state.
+* [Fitbit Google Analytics](https://github.com/dillpixel/fitbit-google-analytics) by David Jones - Integrate Google Analytics into your Fitbit OS app or clock face with a few lines of code.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
