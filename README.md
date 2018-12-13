@@ -36,6 +36,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Really Basic] (https://github.com/gpfrello/FitbitOS-Really-Basic) by Giampaolo Frello - Really basic clockface with lots of comments to be able to understand the minimum components needed to build a digital clockface
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
 * [Roni](https://github.com/baronVonPerko/fitbit-roni) by Chris Perko - Basic digital watchface that includes example of color settings on the companion, and touch to toggle between heartrate and step count.
+* [Schmancy](https://github.com/tyuen/fitbit-schmancy-face) by Terry Yuen - Analog watchface with customizable background image
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
 * [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
