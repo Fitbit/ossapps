@@ -17,6 +17,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Colorful Face](https://github.com/Mayer-Studios/colorfulface) by Mayer Studios - Simple fitbitOS clockface that shows you how to use weather, HR, activity, and background images.
 * [Darkface](https://github.com/rootasjey/darkface) by Jérémie Corpinot - Minimalistic dark clockface with bold/light typography
 * [Doge Watch](https://github.com/tylerl0706/DogeWatch-Fitbit) by Tyler Leonhardt - such time. very watchface. wow.
+* [Dual](https://github.com/Ed2Bs/fitbit-dual-clockface) by Edin Bajrambasic - based on Fitbit's "Stats" clock face design. Add a clock for different time zone. Fitbit Ionic only.
 * [ElegantClock](https://github.com/baydevelopments/ElegantClock) by Allyann @ Baydevelopments - Elegant clockface for Fitbit OS
 * [Feels](https://github.com/rootasjey/feels-fitbit) by Jérémie Corpinot - A weather clock face
 * [fitbit_C64](https://github.com/epatel/fitbit_C64) by Edward Patel - Retro clock face for Fitbit watch OS
