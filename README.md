@@ -83,6 +83,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Altimeter](https://github.com/Fitbit/sdk-altimeter) by Team Fitbit - Fitbit SDK example application which simulates an altimeter using the Barometer sensor.
 * [Bay Area Rapid Transit (BART)](https://github.com/Fitbit/sdk-bart) by Thomas Sarlandie - Fitbit SDK example application which downloads real-time BART data and show upcoming trains for a station of your choice.
 * [Communications Demo](https://github.com/sammachin/Fitbit-MessageDemo) by Sam Machin - Example app for the Fitbit Ionic showing Messaging and Fetch to a basic WebAPI.
+* [Haptics Demo](https://github.com/adiroiban/fitbit-os-haptics) by Adi Roiban - Feel the availalbe vibration patterns in Fitbit OS.
 * [HR Meter](https://github.com/Fitbit/sdk-hr-meter) by Team Fitbit - Fitbit SDK example application which displays readings from the Heart Rate sensor.
 * [IFTTT Web Service Demo](https://github.com/Fitbit/sdk-ifttt-demo) by Jon Barlow - Fitbit SDK example which demonstrates how to call a web service (REST API) using `fetch()`.
 * [LCD Clock Face](https://github.com/Fitbit/sdk-lcd-clock) by Jon Barlow - Fitbit SDK example application which looks like a retro LCD digital clock.
