@@ -34,6 +34,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
  * [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect)
+* [Overview](https://github.com/BlythMeister/Fitbit-Overview-Face) by Chris Blyth - A stats heavy face inclusing on wrist detection and lots of customisable options.
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
 * [Really Basic](https://github.com/gpfrello/FitbitOS-Really-Basic) by Giampaolo Frello - Really basic clockface with lots of comments to be able to understand the minimum components needed to build a digital clockface
