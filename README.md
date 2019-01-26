@@ -65,6 +65,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [WeatherCast](https://github.com/cmspooner/Weather-and-Forecast) by Chris Spooner - A Weather and forcast app using scrollview and a modified version of Grégoire Sage's weather API
 * [Week Number](https://github.com/IanSavchenko/fitbit-week-number) by Ian Savchenko - A small app that shows you current and past/upcoming ISO week number. Has touch gestures handling and animations.
 * [Yoga](https://github.com/gurumukhi/fitbit-yoga-app) by Ram Dayal Vaishnav - 15 minutes Pranayam package for healthier you.
+* [TweetFit](https://github.com/qichuan/fitbit-twitter) by Qichuan ZHANG - A Twitter client app for Fitbit OS
 
 ## Games
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
