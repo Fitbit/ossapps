@@ -59,6 +59,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
 * [Run Goal](https://github.com/kencaron/fitbit-os-run-goal-app) by Ken Caron - Displays your weekly running activity. Mildly typescript enhanced, uses Web API, settings, refreshes your access tokens, leverages the File Transfer API for communication.
 * [Schedule](https://github.com/blueset/fitbit-schedule) by Eana Hufwe — A schedule/agenda viewer for Fitbit OS 2. Supports Google Calendar and planning to add more.
+* [Send Message](https://github.com/PeterSumm/SendMessage) by Peter Summers — An HTTP/HTTPS client supporting GET and POST requests.
 * [SUP](https://github.com/pfederi/fitbit-sup) by Patrick Federi - Log your Stand Up Paddling activities with a lot of ideas in the pipeline. Help appreciated. The application uses the Exercise API added in Fitbit OS 3.0
 * [Timer](https://github.com/tyuen/fitbit-timer-app) by Terry Yuen - One swipe set-and-start egg timer app with minutes granularity
 * [Water Logged](https://github.com/tylerl0706/Water-Logged) by Tyler Leonhardt -  Log your water consumption at your wrist on your Fitbit Ionic!
