@@ -52,6 +52,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Bail Out!](https://github.com/nexmo-community/fitbit-bail-out) by Mark Smith - Press a button on your Ionic and have your phone ring (to get out of bad dates)! A silly Ionic app with a companion app and the [Nexmo Voice API](https://developer.nexmo.com/api/voice). There's also a [blog post](https://www.nexmo.com/blog/2018/03/02/getting-bad-date-fitbit-nexmo-dr/) explaining how it works.
 * [Barcodes](https://github.com/tyuen/fitbit-barcodes-app) by Terry Yuen - Store barcodes on the Ionic for convenient access
 * [Flashlight](https://github.com/cmspooner/Flashlight-App-for-FitBit-Ionic) by Chris Spooner - A basic flashlight for Fitbit Ionic
+* [Geolocator](https://github.com/SergioMorchon/fitbit-geolocator) by Sergio Morchón Poveda - Fitbit GPS based app to store locations and orientate yourself
 * [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use.
 * [Habitica](https://github.com/tramzel/habitica-fitbit) by Taylor Ramzel - An app that leverages the Habitica API to update your tasks from your Fitbit.
 * [KP-Sales](https://github.com/PlummerNL/KP-Sales) by COSS - Fitbit Ionic app for tracking your KPay sales combined with a fancy clock.
@@ -76,6 +77,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Fitbit ASAP](https://github.com/dillpixel/fitbit-asap) by David Jones - Send peer messages without worrying about connection state.
 * [Fitbit Google Analytics](https://github.com/dillpixel/fitbit-google-analytics) by David Jones - Integrate Google Analytics with just a few lines of code.
 * [Fitbit Schedule](https://github.com/dillpixel/fitbit-schedule) by David Jones - Schedule persistent recurring and non-recurring events.
+* [Fitbit SDK Types](https://github.com/SergioMorchon/fitbit-sdk-types) by Sergio Morchón Poveda - Fitbit TypeScript definitions for your projects.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
