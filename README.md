@@ -33,7 +33,12 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Metrix](https://github.com/rootasjey/metrix-fitbit) by Jérémie Corpinot - A metrics clock face
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
  * [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
-* [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect)
+* [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect).
+* [MyDyslexic2Clocks](https://github.com/JeremyJeanson/MyDyslexic2Clocks) By Jérémy Jeanson - A really simple clock for Fitbit OS with 2 hours. You can select the seconde clock time zone from settings. It use a font designed to make life easier for dyslexic people.
+* [MyDyslexicBigArcs](https://github.com/JeremyJeanson/MyDyslexicBigArcs) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people. It include arcs, counters, cylcle views.
+* [MyDyslexicClock](https://github.com/JeremyJeanson/MyDyslexicClock) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people.
+* [MyDyslexicStatsArc](https://github.com/JeremyJeanson/MyDyslexicStatsArc) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people. It include arcs to show your daily activity.
+* [MyDyslexicStatsSteps](https://github.com/JeremyJeanson/MyDyslexicStatsSteps) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people. It include counters and cylcle views.
 * [Overview](https://github.com/BlythMeister/Fitbit-Overview-Face) by Chris Blyth - A stats heavy face inclusing on wrist detection and lots of customisable options.
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
