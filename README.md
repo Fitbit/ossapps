@@ -6,6 +6,7 @@ A non-exhaustive list of open source clock faces, applications and modules from 
 Note that Fitbit isn't responsible for the projects listed below.
 
 ## Clock faces
+* [0b1100 O'Clock](https://github.com/akosthekiss/0b1100oclock) by Akos Kiss - A binary clockface.
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
 * [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Heavy customizable clock face.
 * [AND v2](https://github.com/ahsandar/ANDv2) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Time focused stats Heavy customizable clock face.
