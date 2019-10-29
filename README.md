@@ -85,6 +85,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Fitbit Google Analytics](https://github.com/dillpixel/fitbit-google-analytics) by David Jones - Integrate Google Analytics with just a few lines of code.
 * [Fitbit Schedule](https://github.com/dillpixel/fitbit-schedule) by David Jones - Schedule persistent recurring and non-recurring events.
 * [Fitbit SDK Types](https://github.com/SergioMorchon/fitbit-sdk-types) by Sergio Morchón Poveda - Fitbit TypeScript definitions for your projects.
+* [Fitbit Views](https://github.com/SergioMorchon/fitbit-views) by Sergio Morchón Poveda - Small library to have a multi-view application.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
