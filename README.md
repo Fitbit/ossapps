@@ -17,6 +17,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
 * [Colorful Face](https://github.com/Mayer-Studios/colorfulface) by Mayer Studios - Simple fitbitOS clockface that shows you how to use weather, HR, activity, and background images.
 * [Darkface](https://github.com/rootasjey/darkface) by Jérémie Corpinot - Minimalistic dark clockface with bold/light typography
+* [Die Zeit](https://github.com/Shpota/zeit) by [Sasha Shpota](https://github.com/Shpota) - A clock face for learners of the German language (written in TypeScript and covered with unit tests).
 * [Doge Watch](https://github.com/tylerl0706/DogeWatch-Fitbit) by Tyler Leonhardt - such time. very watchface. wow.
 * [Dual](https://github.com/Ed2Bs/fitbit-dual-clockface) by Edin Bajrambasic - based on Fitbit's "Stats" clock face design. Add a clock for different time zone. Fitbit Ionic only.
 * [ElegantClock](https://github.com/baydevelopments/ElegantClock) by Allyann @ Baydevelopments - Elegant clockface for Fitbit OS
