@@ -33,6 +33,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Luxury Clean](https://github.com/TyDSmith/luxury-clean) by Ty Daniel Smith - A simplistic yet classic design, similar to that featured on timeless luxury watches.
 * [Medical Professional](https://github.com/mmk0083/fitbit-mp-clock) by mmk0083 - Simple analog clock for easily taking vitals. Tap the device screen to lock the screen on. Tap again to restore auto-off. Also includes a night-mode that shifts color during specified hours.
 * [Metrix](https://github.com/rootasjey/metrix-fitbit) by Jérémie Corpinot - A metrics clock face
+* [Minimalist Clock Face](https://github.com/lukaspanni/MinimalistClockFace) by Lukas Panni - A very simple clock face
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
  * [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect).
