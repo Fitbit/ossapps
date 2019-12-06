@@ -7,6 +7,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 
 ## Clock faces
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
+* [Arcular](https://github.com/reverseloop/fitbit-arcular) by reverseloop - Simple and clear analog clock face for Ionic and Versa models.
 * [Borderlands](https://github.com/ViGouRCanberra/ionic-watchface-borderlands) by Le-Roux Enslin - A Watchface based on the UI of the PC game Borderlands 2
 * [ClearBeam](https://gitlab.com/private-software/fitbit-clearbeam-watchface.git) by Sam - Clear watchface with heartrate-display and four progress-beams for steps, burned calories, elevation and active minutes.
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
@@ -34,12 +35,15 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Barcodes](https://github.com/tyuen/fitbit-barcodes-app) by Terry Yuen - Store barcodes on the Ionic for convenient access
 * [Flashlight](https://github.com/cmspooner/Flashlight-App-for-FitBit-Ionic) by Chris Spooner - A basic flashlight for Fitbit Ionic
 * [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use. 
+* [Habitica](https://github.com/tramzel/habitica-fitbit) by Taylor Ramzel - An app that leverages the Habitica API to update your tasks from your Fitbit.
 * [KP-Sales](https://github.com/PlummerNL/KP-Sales) by COSS - Fitbit Ionic app for tracking your KPay sales combined with a fancy clock.
 * [Pomodoro](https://github.com/johnliu55tw/Pomodoro-Ionic) by John Liu - The Pomodoro timer. This is an app version of the [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic), which only has basic functions.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
 * [Run Goal](https://github.com/kencaron/fitbit-os-run-goal-app) by Ken Caron - Displays your weekly running activity. Mildly typescript enhanced, uses Web API, settings, refreshes your access tokens, leverages the File Transfer API for communication.
+* [Schedule](https://github.com/blueset/fitbit-schedule) by Eana Hufwe — A schedule/agenda viewer for Fitbit OS 2. Supports Google Calendar and planning to add more.
 * [Water Logged](https://github.com/tylerl0706/Water-Logged) by Tyler Leonhardt -  Log your water consumption at your wrist on your Fitbit Ionic!
 * [WeatherCast](https://github.com/cmspooner/Weather-and-Forecast) by Chris Spooner - A Weather and forcast app using scrollview and a modified version of Grégoire Sage's weather API
+* [Week Number](https://github.com/IanSavchenko/fitbit-week-number) by Ian Savchenko - A small app that shows you current and past/upcoming ISO week number. Has touch gestures handling and animations.
 
 ## Games
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
@@ -57,6 +61,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Bay Area Rapid Transit (BART)](https://github.com/Fitbit/sdk-bart) by Thomas Sarlandie - Fitbit SDK example application which downloads real-time BART data and show upcoming trains for a station of your choice.
 * [Communications Demo](https://github.com/sammachin/Fitbit-MessageDemo) by Sam Machin - Example app for the Fitbit Ionic showing Messaging and Fetch to a basic WebAPI.
 * [HR Meter](https://github.com/Fitbit/sdk-hr-meter) by Team Fitbit - Fitbit SDK example application which displays readings from the Heart Rate sensor.
+* [IFTTT Web Service Demo](https://github.com/Fitbit/sdk-ifttt-demo) by Jon Barlow - Fitbit SDK example which demonstrates how to call a web service (REST API) using `fetch()`.
 * [LCD Clock Face](https://github.com/Fitbit/sdk-lcd-clock) by Jon Barlow - Fitbit SDK example application which looks like a retro LCD digital clock.
 * [SDK OAuth](https://github.com/Fitbit/sdk-oauth) by Jon Barlow - A sample application which uses the Settings API OAuth component, and the Fitbit Web API to query sleep data.
 * [Settings Redirect](https://github.com/daveyjones/fitbit-demos/tree/master/settings-redirect) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
