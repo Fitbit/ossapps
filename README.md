@@ -6,7 +6,9 @@ A non-exhaustive list of open source clock faces, applications and modules from 
 Note that Fitbit isn't responsible for the projects listed below.
 
 ## Clock faces
+* [0b1100 O'Clock](https://github.com/akosthekiss/0b1100oclock) by Akos Kiss - A binary clockface.
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
+* [Analog Stats](https://github.com/pmccrthy/fitbit-analog-stats) by Paul McCarthy - Analog clock face with stats and customizable colors.
 * [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Heavy customizable clock face.
 * [AND v2](https://github.com/ahsandar/ANDv2) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Time focused stats Heavy customizable clock face.
 * [Arcular](https://github.com/reverseloop/fitbit-arcular) by reverseloop - Simple and clear analog clock face for Ionic and Versa models.
@@ -16,6 +18,8 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
 * [Colorful Face](https://github.com/Mayer-Studios/colorfulface) by Mayer Studios - Simple fitbitOS clockface that shows you how to use weather, HR, activity, and background images.
 * [Darkface](https://github.com/rootasjey/darkface) by Jérémie Corpinot - Minimalistic dark clockface with bold/light typography
+* [Dexcomedy](https://github.com/aud/dexcomedy) by Elliot Dohm - A clockface for diabetics to see your current blood sugar levels.
+* [Die Zeit](https://github.com/Shpota/zeit) by [Sasha Shpota](https://github.com/Shpota) - A clock face for learners of the German language (written in TypeScript and covered with unit tests).
 * [Doge Watch](https://github.com/tylerl0706/DogeWatch-Fitbit) by Tyler Leonhardt - such time. very watchface. wow.
 * [Dual](https://github.com/Ed2Bs/fitbit-dual-clockface) by Edin Bajrambasic - based on Fitbit's "Stats" clock face design. Add a clock for different time zone. Fitbit Ionic only.
 * [ElegantClock](https://github.com/baydevelopments/ElegantClock) by Allyann @ Baydevelopments - Elegant clockface for Fitbit OS
@@ -31,9 +35,15 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Luxury Clean](https://github.com/TyDSmith/luxury-clean) by Ty Daniel Smith - A simplistic yet classic design, similar to that featured on timeless luxury watches.
 * [Medical Professional](https://github.com/mmk0083/fitbit-mp-clock) by mmk0083 - Simple analog clock for easily taking vitals. Tap the device screen to lock the screen on. Tap again to restore auto-off. Also includes a night-mode that shifts color during specified hours.
 * [Metrix](https://github.com/rootasjey/metrix-fitbit) by Jérémie Corpinot - A metrics clock face
+* [Minimalist Clock Face](https://github.com/lukaspanni/MinimalistClockFace) by Lukas Panni - A very simple clock face
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
  * [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
-* [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect)
+* [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect).
+* [MyDyslexic2Clocks](https://github.com/JeremyJeanson/MyDyslexic2Clocks) By Jérémy Jeanson - A really simple clock for Fitbit OS with 2 hours. You can select the seconde clock time zone from settings. It use a font designed to make life easier for dyslexic people.
+* [MyDyslexicBigArcs](https://github.com/JeremyJeanson/MyDyslexicBigArcs) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people. It include arcs, counters, cylcle views.
+* [MyDyslexicClock](https://github.com/JeremyJeanson/MyDyslexicClock) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people.
+* [MyDyslexicStatsArc](https://github.com/JeremyJeanson/MyDyslexicStatsArc) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people. It include arcs to show your daily activity.
+* [MyDyslexicStatsSteps](https://github.com/JeremyJeanson/MyDyslexicStatsSteps) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people. It include counters and cylcle views.
 * [Overview](https://github.com/BlythMeister/Fitbit-Overview-Face) by Chris Blyth - A stats heavy face inclusing on wrist detection and lots of customisable options.
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
@@ -41,7 +51,9 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
 * [Roni](https://github.com/baronVonPerko/fitbit-roni) by Chris Perko - Basic digital watchface that includes example of color settings on the companion, and touch to toggle between heartrate and step count.
 * [Schmancy](https://github.com/tyuen/fitbit-schmancy-face) by Terry Yuen - Analog watchface with customizable background image
+* [Sleek & Modern](https://github.com/Mayer-Studios/Sleek-and-Modern) by Mayer Studios - Analog clockface with activity rings, weather, settings, and more.
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
+* [Springtime](https://github.com/rhondachill/Springtime-Fitbit) by Rhonda Hill - A simple springtime themed digital watchface for Fitbit OS. Compatible with Fitbit Versa & Fitbit Ionic.
 * [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
 * [Terminal](https://github.com/jdhartley/terminal-for-fitbit) by JD Hartley - Fitbit clock face styled to match a terminal session in a Unix environment.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
@@ -78,6 +90,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Fitbit Google Analytics](https://github.com/dillpixel/fitbit-google-analytics) by David Jones - Integrate Google Analytics with just a few lines of code.
 * [Fitbit Schedule](https://github.com/dillpixel/fitbit-schedule) by David Jones - Schedule persistent recurring and non-recurring events.
 * [Fitbit SDK Types](https://github.com/SergioMorchon/fitbit-sdk-types) by Sergio Morchón Poveda - Fitbit TypeScript definitions for your projects.
+* [Fitbit Views](https://github.com/SergioMorchon/fitbit-views) by Sergio Morchón Poveda - Small library to have a multi-view application.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
