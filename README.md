@@ -102,6 +102,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [MeterWidget](https://github.com/kmpm/fitbit-meter-widget) by Peter Magnusson - Some simple round meters using arcs and grayscale magic with js helpers.
 * [Realistic HRM animation](https://github.com/KiezelPay/Fitbit_Realistic_HRM) by Kristof Verpoorten - Shows an HR animation in the same frequency as the user's heartrate when the display is on. Disables the animation and icon when the watch is taken off.
 * [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS
+* [Color Picker for Fitbit OS](https://github.com/maximDevTweet/fitbit-color-picker) by Maxim - Color picker component wrapped in a watch face for Fitbit devices.
 
 ## Examples
 * [Altimeter](https://github.com/Fitbit/sdk-altimeter) by Team Fitbit - Fitbit SDK example application which simulates an altimeter using the Barometer sensor.
