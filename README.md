@@ -81,6 +81,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Send Message](https://github.com/PeterSumm/SendMessage) by Peter Summers - An HTTP/HTTPS client supporting GET and POST requests.
 * [SUP](https://github.com/pfederi/fitbit-sup) by Patrick Federi - Log your Stand Up Paddling activities with a lot of ideas in the pipeline. Help appreciated. The application uses the Exercise API added in Fitbit OS 3.0
 * [Timer](https://github.com/tyuen/fitbit-timer-app) by Terry Yuen - One swipe set-and-start egg timer app with minutes granularity
+* [Tuskla](https://github.com/remygrandin/Tuskla) by Rémy Grandin - Remote control your Tesla from your Fitbit
 * [Water Logged](https://github.com/tylerl0706/Water-Logged) by Tyler Leonhardt -  Log your water consumption at your wrist on your Fitbit Ionic!
 * [WeatherCast](https://github.com/cmspooner/Weather-and-Forecast) by Chris Spooner - A Weather and forcast app using scrollview and a modified version of Grégoire Sage's weather API
 * [Week Number](https://github.com/IanSavchenko/fitbit-week-number) by Ian Savchenko - A small app that shows you current and past/upcoming ISO week number. Has touch gestures handling and animations.
