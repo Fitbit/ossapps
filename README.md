@@ -8,6 +8,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 ## Clock faces
 * [0b1100 O'Clock](https://github.com/akosthekiss/0b1100oclock) by Akos Kiss - A binary clockface.
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
+* [Agenda Arc](https://github.com/matthewwardrop/fitbit-agenda-arc-clockface) by Matthew Wardrop - See your calendar events for the next ~7 hours rendered on a timeline arc.
 * [Analog Stats](https://github.com/pmccrthy/fitbit-analog-stats) by Paul McCarthy - Analog clock face with stats and customizable colors.
 * [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Heavy customizable clock face.
 * [AND v2](https://github.com/ahsandar/ANDv2) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Time focused stats Heavy customizable clock face.
@@ -38,6 +39,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Metrix](https://github.com/rootasjey/metrix-fitbit) by Jérémie Corpinot - A metrics clock face
 * [Minimal Design](https://github.com/Samurai016/Minimal-Design) by Nicolò Rebaioli - Minimal watch face for Fitbit Versa family.
 * [Minimalist Clock Face](https://github.com/lukaspanni/MinimalistClockFace) by Lukas Panni - A very simple clock face
+* [MinimalistStats](https://github.com/lukaspanni/MinimalStatsClockface) by Lukas Panni - Minimalist design combined with activity stats.
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
  * [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect).
@@ -81,6 +83,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Send Message](https://github.com/PeterSumm/SendMessage) by Peter Summers - An HTTP/HTTPS client supporting GET and POST requests.
 * [SUP](https://github.com/pfederi/fitbit-sup) by Patrick Federi - Log your Stand Up Paddling activities with a lot of ideas in the pipeline. Help appreciated. The application uses the Exercise API added in Fitbit OS 3.0
 * [Timer](https://github.com/tyuen/fitbit-timer-app) by Terry Yuen - One swipe set-and-start egg timer app with minutes granularity
+* [Tuskla](https://github.com/remygrandin/Tuskla) by Rémy Grandin - Remote control your Tesla from your Fitbit
 * [Water Logged](https://github.com/tylerl0706/Water-Logged) by Tyler Leonhardt -  Log your water consumption at your wrist on your Fitbit Ionic!
 * [WeatherCast](https://github.com/cmspooner/Weather-and-Forecast) by Chris Spooner - A Weather and forcast app using scrollview and a modified version of Grégoire Sage's weather API
 * [Week Number](https://github.com/IanSavchenko/fitbit-week-number) by Ian Savchenko - A small app that shows you current and past/upcoming ISO week number. Has touch gestures handling and animations.
@@ -91,6 +94,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
 
 ## Modules
+* [Color Picker for Fitbit OS](https://github.com/maximDevTweet/fitbit-color-picker) by Maxim - Color picker component wrapped in a watch face for Fitbit devices.
 * [Fitbit ASAP](https://github.com/dillpixel/fitbit-asap) by David Jones - Send peer messages without worrying about connection state.
 * [Fitbit Google Analytics](https://github.com/dillpixel/fitbit-google-analytics) by David Jones - Integrate Google Analytics with just a few lines of code.
 * [Fitbit Schedule](https://github.com/dillpixel/fitbit-schedule) by David Jones - Schedule persistent recurring and non-recurring events.
