@@ -62,6 +62,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
 * [Springtime](https://github.com/rhondachill/Springtime-Fitbit) by Rhonda Hill - A simple springtime themed digital watchface for Fitbit OS. Compatible with Fitbit Versa & Fitbit Ionic.
 * [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
+* [sudoVersa](https://github.com/PiSaucer/sudoVersa) by PiSaucer - Terminal Style Clockface your Versa for you Linux users or whoever wants to feel like they Versa can hack.
 * [Terminal](https://github.com/jdhartley/terminal-for-fitbit) by JD Hartley - Fitbit clock face styled to match a terminal session in a Unix environment.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
 
