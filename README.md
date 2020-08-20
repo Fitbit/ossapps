@@ -100,7 +100,8 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Fitbit Google Analytics](https://github.com/dillpixel/fitbit-google-analytics) by David Jones - Integrate Google Analytics with just a few lines of code.
 * [Fitbit Schedule](https://github.com/dillpixel/fitbit-schedule) by David Jones - Schedule persistent recurring and non-recurring events.
 * [Fitbit SDK Types](https://github.com/SergioMorchon/fitbit-sdk-types) by Sergio Morchón Poveda - Fitbit TypeScript definitions for your projects.
-* [Fitbit Settings Commons](https://github.com/bingtimren/fitbit-settings-commons) by Bing Ren - Makes working with Fitbit Settings storage API easier by providing a wrapper that calls props.settingsStorage, JSON.stringify() and JSON.parse() behind the scene. And if you enjoy the benefits of using Typescript, the wrapper supports typed settings.
+* [Fitbit Settings Commons](https://github.com/bingtimren/fitbit-settings-commons) by Bing Ren - A wrapper to make using Settings storage API easier. Also supports Typescript.
+* [Fitbit Sim Starter](https://github.com/bingtimren/fitbit-sim-starter) by Bing Ren - Launches Fitbit Simulator on Linux with one command. Requires npm and docker.
 * [Fitbit Views](https://github.com/SergioMorchon/fitbit-views) by Sergio Morchón Poveda - Small library to have a multi-view application.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
