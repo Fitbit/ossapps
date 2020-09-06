@@ -106,7 +106,9 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
 * [MeterWidget](https://github.com/kmpm/fitbit-meter-widget) by Peter Magnusson - Some simple round meters using arcs and grayscale magic with js helpers.
 * [Realistic HRM animation](https://github.com/KiezelPay/Fitbit_Realistic_HRM) by Kristof Verpoorten - Shows an HR animation in the same frequency as the user's heartrate when the display is on. Disables the animation and icon when the watch is taken off.
-* [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS
+* [Simple Fitbit settings](https://github.com/JeremyJeanson/simple-fitbit-settings) by Jérémy Jeanson - Module to simplify management of settings inside Fitbit OS applications (sockets, storage and default settings). It include type definitions to use with TypeScript.
+* [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS.
+* [Weather module for Fitbit OS (types)](https://github.com/JeremyJeanson/fitbit-weather-types) by Jérémy Jeanson - Include type defintions to use "Weather module for Fitbit OS" with TypeScript.
 
 ## Examples
 * [Altimeter](https://github.com/Fitbit/sdk-altimeter) by Team Fitbit - Fitbit SDK example application which simulates an altimeter using the Barometer sensor.
