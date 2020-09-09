@@ -18,6 +18,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [CleanFace](https://github.com/gnuchu/cleanface) by gnuchu - Simple clock face with heart rate and date.
 * [ClearBeam](https://gitlab.com/private-software/fitbit-clearbeam-watchface.git) by Sam - Clear watchface with heartrate-display and four progress-beams for steps, burned calories, elevation and active minutes.
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
+* [Clock64](https://github.com/akosthekiss/clock64) by Akos Kiss - A C64-inspired clockface.
 * [Colorful Face](https://github.com/Mayer-Studios/colorfulface) by Mayer Studios - Simple fitbitOS clockface that shows you how to use weather, HR, activity, and background images.
 * [Darkface](https://github.com/rootasjey/darkface) by Jérémie Corpinot - Minimalistic dark clockface with bold/light typography
 * [Dexcomedy](https://github.com/aud/dexcomedy) by Elliot Dohm - A clockface for diabetics to see your current blood sugar levels.
