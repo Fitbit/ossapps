@@ -8,6 +8,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 ## Clock faces
 * [0b1100 O'Clock](https://github.com/akosthekiss/0b1100oclock) by Akos Kiss - A binary clockface.
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
+* [Agenda Arc](https://github.com/matthewwardrop/fitbit-agenda-arc-clockface) by Matthew Wardrop - See your calendar events for the next ~7 hours rendered on a timeline arc.
 * [Analog Stats](https://github.com/pmccrthy/fitbit-analog-stats) by Paul McCarthy - Analog clock face with stats and customizable colors.
 * [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Heavy customizable clock face.
 * [AND v2](https://github.com/ahsandar/ANDv2) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Time focused stats Heavy customizable clock face.
@@ -17,6 +18,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [CleanFace](https://github.com/gnuchu/cleanface) by gnuchu - Simple clock face with heart rate and date.
 * [ClearBeam](https://gitlab.com/private-software/fitbit-clearbeam-watchface.git) by Sam - Clear watchface with heartrate-display and four progress-beams for steps, burned calories, elevation and active minutes.
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
+* [Clock64](https://github.com/akosthekiss/clock64) by Akos Kiss - A C64-inspired clockface.
 * [Colorful Face](https://github.com/Mayer-Studios/colorfulface) by Mayer Studios - Simple fitbitOS clockface that shows you how to use weather, HR, activity, and background images.
 * [Darkface](https://github.com/rootasjey/darkface) by Jérémie Corpinot - Minimalistic dark clockface with bold/light typography
 * [Dexcomedy](https://github.com/aud/dexcomedy) by Elliot Dohm - A clockface for diabetics to see your current blood sugar levels.
@@ -38,6 +40,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Metrix](https://github.com/rootasjey/metrix-fitbit) by Jérémie Corpinot - A metrics clock face
 * [Minimal Design](https://github.com/Samurai016/Minimal-Design) by Nicolò Rebaioli - Minimal watch face for Fitbit Versa family.
 * [Minimalist Clock Face](https://github.com/lukaspanni/MinimalistClockFace) by Lukas Panni - A very simple clock face
+* [MinimalistStats](https://github.com/lukaspanni/MinimalStatsClockface) by Lukas Panni - Minimalist design combined with activity stats.
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
  * [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect).
@@ -60,6 +63,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
 * [Springtime](https://github.com/rhondachill/Springtime-Fitbit) by Rhonda Hill - A simple springtime themed digital watchface for Fitbit OS. Compatible with Fitbit Versa & Fitbit Ionic.
 * [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
+* [sudoVersa](https://github.com/PiSaucer/sudoVersa) by PiSaucer - Terminal Style Clockface your Versa for you Linux users or whoever wants to feel like they Versa can hack.
 * [Terminal](https://github.com/jdhartley/terminal-for-fitbit) by JD Hartley - Fitbit clock face styled to match a terminal session in a Unix environment.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
 
@@ -81,6 +85,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Send Message](https://github.com/PeterSumm/SendMessage) by Peter Summers - An HTTP/HTTPS client supporting GET and POST requests.
 * [SUP](https://github.com/pfederi/fitbit-sup) by Patrick Federi - Log your Stand Up Paddling activities with a lot of ideas in the pipeline. Help appreciated. The application uses the Exercise API added in Fitbit OS 3.0
 * [Timer](https://github.com/tyuen/fitbit-timer-app) by Terry Yuen - One swipe set-and-start egg timer app with minutes granularity
+* [Tuskla](https://github.com/remygrandin/Tuskla) by Rémy Grandin - Remote control your Tesla from your Fitbit
 * [Water Logged](https://github.com/tylerl0706/Water-Logged) by Tyler Leonhardt -  Log your water consumption at your wrist on your Fitbit Ionic!
 * [WeatherCast](https://github.com/cmspooner/Weather-and-Forecast) by Chris Spooner - A Weather and forcast app using scrollview and a modified version of Grégoire Sage's weather API
 * [Week Number](https://github.com/IanSavchenko/fitbit-week-number) by Ian Savchenko - A small app that shows you current and past/upcoming ISO week number. Has touch gestures handling and animations.
@@ -96,13 +101,17 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Fitbit Google Analytics](https://github.com/dillpixel/fitbit-google-analytics) by David Jones - Integrate Google Analytics with just a few lines of code.
 * [Fitbit Schedule](https://github.com/dillpixel/fitbit-schedule) by David Jones - Schedule persistent recurring and non-recurring events.
 * [Fitbit SDK Types](https://github.com/SergioMorchon/fitbit-sdk-types) by Sergio Morchón Poveda - Fitbit TypeScript definitions for your projects.
+* [Fitbit Settings Commons](https://github.com/bingtimren/fitbit-settings-commons) by Bing Ren - A wrapper to make using Settings storage API easier. Also supports Typescript.
+* [Fitbit Sim Starter](https://github.com/bingtimren/fitbit-sim-starter) by Bing Ren - Launches Fitbit Simulator on Linux with one command. Requires npm and docker.
 * [Fitbit Views](https://github.com/SergioMorchon/fitbit-views) by Sergio Morchón Poveda - Small library to have a multi-view application.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
 * [MeterWidget](https://github.com/kmpm/fitbit-meter-widget) by Peter Magnusson - Some simple round meters using arcs and grayscale magic with js helpers.
 * [Realistic HRM animation](https://github.com/KiezelPay/Fitbit_Realistic_HRM) by Kristof Verpoorten - Shows an HR animation in the same frequency as the user's heartrate when the display is on. Disables the animation and icon when the watch is taken off.
-* [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS
+* [Simple Fitbit settings](https://github.com/JeremyJeanson/simple-fitbit-settings) by Jérémy Jeanson - Module to simplify management of settings inside Fitbit OS applications (sockets, storage and default settings). It include type definitions to use with TypeScript.
+* [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS.
+* [Weather module for Fitbit OS (types)](https://github.com/JeremyJeanson/fitbit-weather-types) by Jérémy Jeanson - Include type defintions to use "Weather module for Fitbit OS" with TypeScript.
 
 ## Examples
 * [Altimeter](https://github.com/Fitbit/sdk-altimeter) by Team Fitbit - Fitbit SDK example application which simulates an altimeter using the Barometer sensor.
