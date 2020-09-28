@@ -81,6 +81,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Pomodoro](https://github.com/johnliu55tw/Pomodoro-Ionic) by John Liu - The Pomodoro timer. This is an app version of the [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic), which only has basic functions.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
 * [Run Goal](https://github.com/kencaron/fitbit-os-run-goal-app) by Ken Caron - Displays your weekly running activity. Mildly typescript enhanced, uses Web API, settings, refreshes your access tokens, leverages the File Transfer API for communication.
+* [RVRZ](https://github.com/OSSClockApps/RVRZ) by Lukas Panni - Simple reversed analog clock.
 * [Schedule](https://github.com/blueset/fitbit-schedule) by Eana Hufwe — A schedule/agenda viewer for Fitbit OS 2. Supports Google Calendar and planning to add more.
 * [Send Message](https://github.com/PeterSumm/SendMessage) by Peter Summers - An HTTP/HTTPS client supporting GET and POST requests.
 * [SUP](https://github.com/pfederi/fitbit-sup) by Patrick Federi - Log your Stand Up Paddling activities with a lot of ideas in the pipeline. Help appreciated. The application uses the Exercise API added in Fitbit OS 3.0
