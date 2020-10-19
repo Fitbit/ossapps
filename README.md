@@ -98,6 +98,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 ## Modules
 * [Color Picker for Fitbit OS](https://github.com/maximDevTweet/fitbit-color-picker) by Maxim - Color picker component wrapped in a watch face for Fitbit devices.
 * [Fitbit ASAP](https://github.com/dillpixel/fitbit-asap) by David Jones - Send peer messages without worrying about connection state.
+* [Fitbit ASAP Types](https://github.com/JeremyJeanson/fitbit-asap-types) by Jérémy Jeanson - Include types definitions to use "Fitbit ASAP" with TypeScript.
 * [Fitbit Google Analytics](https://github.com/dillpixel/fitbit-google-analytics) by David Jones - Integrate Google Analytics with just a few lines of code.
 * [Fitbit Logger](https://github.com/Artaud/fitbit-logger) by Jiří Richter - Replacement for console.log. Persist logs to file system or forward them to a remote location.
 * [Fitbit Schedule](https://github.com/dillpixel/fitbit-schedule) by David Jones - Schedule persistent recurring and non-recurring events.
