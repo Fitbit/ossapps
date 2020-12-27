@@ -73,12 +73,12 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Authenticator](https://github.com/Lixxia/fitbit-authenticator) by Laura Barber - Receive two-factor authentication codes on your Fitbit Versa!
 * [Bail Out!](https://github.com/nexmo-community/fitbit-bail-out) by Mark Smith - Press a button on your Ionic and have your phone ring (to get out of bad dates)! A silly Ionic app with a companion app and the [Nexmo Voice API](https://developer.nexmo.com/api/voice). There's also a [blog post](https://www.nexmo.com/blog/2018/03/02/getting-bad-date-fitbit-nexmo-dr/) explaining how it works.
 * [Barcodes](https://github.com/tyuen/fitbit-barcodes-app) by Terry Yuen - Store barcodes on the Ionic for convenient access
-* [Lightest](https://github.com/alicescfernandes/fitbit-lightest) by Alice Fernandes - A flashlight app for fitbit versa 3 and sense
 * [Flashlight](https://github.com/cmspooner/Flashlight-App-for-FitBit-Ionic) by Chris Spooner - A basic flashlight for Fitbit Ionic
 * [Geolocator](https://github.com/SergioMorchon/fitbit-geolocator) by Sergio Morchón Poveda - Fitbit GPS based app to store locations and orientate yourself
 * [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use.
 * [Habitica](https://github.com/tramzel/habitica-fitbit) by Taylor Ramzel - An app that leverages the Habitica API to update your tasks from your Fitbit.
 * [KP-Sales](https://github.com/PlummerNL/KP-Sales) by COSS - Fitbit Ionic app for tracking your KPay sales combined with a fancy clock.
+* [Lightest](https://github.com/alicescfernandes/fitbit-lightest) by Alice Fernandes - A flashlight app for fitbit versa 3 and sense
 * [Map](https://github.com/tyuen/fitbit-map-app) by Terry Yuen - Shows a panable and zoomable map of your current location using the HERE platform
 * [Pomodoro](https://github.com/johnliu55tw/Pomodoro-Ionic) by John Liu - The Pomodoro timer. This is an app version of the [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic), which only has basic functions.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
