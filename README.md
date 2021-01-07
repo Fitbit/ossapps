@@ -108,6 +108,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Fitbit Settings Commons](https://github.com/bingtimren/fitbit-settings-commons) by Bing Ren - A wrapper to make using Settings storage API easier. Also supports Typescript.
 * [Fitbit Sim Starter](https://github.com/bingtimren/fitbit-sim-starter) by Bing Ren - Launches Fitbit Simulator on Linux with one command. Requires npm and docker.
 * [Fitbit Views](https://github.com/SergioMorchon/fitbit-views) by Sergio Morchón Poveda - Small library to have a multi-view application.
+* [Fitfont Types](https://github.com/JeremyJeanson/fitfont-types) by Jérémy Jeanson - Include type definitions to use [Fitfont](https://github.com/gregoiresage/fitfont) with TypeScript.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
