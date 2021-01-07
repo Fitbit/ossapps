@@ -77,6 +77,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use.
 * [Habitica](https://github.com/tramzel/habitica-fitbit) by Taylor Ramzel - An app that leverages the Habitica API to update your tasks from your Fitbit.
 * [KP-Sales](https://github.com/PlummerNL/KP-Sales) by COSS - Fitbit Ionic app for tracking your KPay sales combined with a fancy clock.
+* [Lightest](https://github.com/alicescfernandes/fitbit-lightest) by Alice Fernandes - A flashlight app for fitbit versa 3 and sense
 * [Map](https://github.com/tyuen/fitbit-map-app) by Terry Yuen - Shows a panable and zoomable map of your current location using the HERE platform
 * [Pomodoro](https://github.com/johnliu55tw/Pomodoro-Ionic) by John Liu - The Pomodoro timer. This is an app version of the [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic), which only has basic functions.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
@@ -99,6 +100,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 ## Modules
 * [Color Picker for Fitbit OS](https://github.com/maximDevTweet/fitbit-color-picker) by Maxim - Color picker component wrapped in a watch face for Fitbit devices.
 * [Fitbit ASAP](https://github.com/dillpixel/fitbit-asap) by David Jones - Send peer messages without worrying about connection state.
+* [Fitbit ASAP Types](https://github.com/JeremyJeanson/fitbit-asap-types) by Jérémy Jeanson - Include types definitions to use "Fitbit ASAP" with TypeScript.
 * [Fitbit Google Analytics](https://github.com/dillpixel/fitbit-google-analytics) by David Jones - Integrate Google Analytics with just a few lines of code.
 * [Fitbit Logger](https://github.com/Artaud/fitbit-logger) by Jiří Richter - Replacement for console.log. Persist logs to file system or forward them to a remote location.
 * [Fitbit Schedule](https://github.com/dillpixel/fitbit-schedule) by David Jones - Schedule persistent recurring and non-recurring events.
@@ -106,11 +108,13 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Fitbit Settings Commons](https://github.com/bingtimren/fitbit-settings-commons) by Bing Ren - A wrapper to make using Settings storage API easier. Also supports Typescript.
 * [Fitbit Sim Starter](https://github.com/bingtimren/fitbit-sim-starter) by Bing Ren - Launches Fitbit Simulator on Linux with one command. Requires npm and docker.
 * [Fitbit Views](https://github.com/SergioMorchon/fitbit-views) by Sergio Morchón Poveda - Small library to have a multi-view application.
+* [Fitfont Types](https://github.com/JeremyJeanson/fitfont-types) by Jérémy Jeanson - Include type definitions to use [Fitfont](https://github.com/gregoiresage/fitfont) with TypeScript.
 * [Font Metrics module for Fitbit OS](https://github.com/jamesb/ionic-font-metrics) by James Bernsen - Measures pixel width of text elements
 * [Ionic Views](https://github.com/gaperton/ionic-views) by Vlad Balin - microframework with an implementation of the view/subview pattern in BackboneJS style.
 * [K·pay merchant API module](https://github.com/KiezelPay/fitbit_kpay_merchant_api) by Kristof Verpoorten - module to retrieve your sales data using the K·pay merchant API.
 * [MeterWidget](https://github.com/kmpm/fitbit-meter-widget) by Peter Magnusson - Some simple round meters using arcs and grayscale magic with js helpers.
 * [Realistic HRM animation](https://github.com/KiezelPay/Fitbit_Realistic_HRM) by Kristof Verpoorten - Shows an HR animation in the same frequency as the user's heartrate when the display is on. Disables the animation and icon when the watch is taken off.
+* [Simple Fitbit Activities](https://github.com/JeremyJeanson/simple-fitbit-activities) by Jérémy Jeanson - Module to simplify access and calculations of activities inside Fitbit OS applications. Make activities values more generic to use them in your functions. It includes type definitions to use with TypeScript (Fitbit SDK 4.2 and 5).
 * [Simple Fitbit settings](https://github.com/JeremyJeanson/simple-fitbit-settings) by Jérémy Jeanson - Module to simplify management of settings inside Fitbit OS applications (sockets, storage and default settings). It include type definitions to use with TypeScript.
 * [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS.
 * [Weather module for Fitbit OS (types)](https://github.com/JeremyJeanson/fitbit-weather-types) by Jérémy Jeanson - Include type defintions to use "Weather module for Fitbit OS" with TypeScript.
