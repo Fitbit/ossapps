@@ -40,6 +40,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Metrix](https://github.com/rootasjey/metrix-fitbit) by Jérémie Corpinot - A metrics clock face
 * [Minimal Design](https://github.com/Samurai016/Minimal-Design) by Nicolò Rebaioli - Minimal watch face for Fitbit Versa family.
 * [Minimalist Clock Face](https://github.com/lukaspanni/MinimalistClockFace) by Lukas Panni - A very simple clock face
+* [Minimal Clock Face](https://github.com/alicescfernandes/fitibt-minimal-clock) by Alice Fernandes - A simple clockface for versa 3 and sense
 * [MinimalistStats](https://github.com/lukaspanni/MinimalStatsClockface) by Lukas Panni - Minimalist design combined with activity stats.
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
  * [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
@@ -77,6 +78,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [GetThere](https://github.com/pavelrisenberg/GetThere) by Pavel Risenberg, Maksim Asichka - Get There lets you check driving time to your favorite destinations with respect to current traffic conditions using Google and Bing Maps API. Note, Google and Microsoft API terms of services should be acknoledged for any public use.
 * [Habitica](https://github.com/tramzel/habitica-fitbit) by Taylor Ramzel - An app that leverages the Habitica API to update your tasks from your Fitbit.
 * [KP-Sales](https://github.com/PlummerNL/KP-Sales) by COSS - Fitbit Ionic app for tracking your KPay sales combined with a fancy clock.
+* [Lightest](https://github.com/alicescfernandes/fitbit-lightest) by Alice Fernandes - A flashlight app for fitbit versa 3 and sense
 * [Map](https://github.com/tyuen/fitbit-map-app) by Terry Yuen - Shows a panable and zoomable map of your current location using the HERE platform
 * [Pomodoro](https://github.com/johnliu55tw/Pomodoro-Ionic) by John Liu - The Pomodoro timer. This is an app version of the [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic), which only has basic functions.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
