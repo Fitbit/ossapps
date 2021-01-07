@@ -132,3 +132,6 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Settings with File transfer](https://github.com/KiezelPay/fitbit-file-transfer-settings) by Kristof Verpoorten - Very simple example showing how to use the file transfer API for settings. As an added bonus settings are also stored on the watch and loaded from filesystem again on each app start.
 * [Using Jest for testing app code](https://github.com/ihassin/fitbit-coachusa) by Itamar Hassin - Shows the required ```includes``` and some trickery to get tests running in your local env and stay compatible with Studio's way of doing things.
 * [Webconfig Demo](https://github.com/dillpixel/fitbit-webconfig-demo) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
+
+## Tools
+
