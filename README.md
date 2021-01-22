@@ -42,7 +42,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Minimalist Clock Face](https://github.com/OSSClockApps/MinimalistClockFace) by Lukas Panni - A very simple clock face
 * [MinimalistStats](https://github.com/OSSClockApps/MinimalStatsClockface) by Lukas Panni - Minimalist design combined with activity stats.
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
- * [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
+* [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect).
 * [MyDyslexic2Clocks](https://github.com/JeremyJeanson/MyDyslexic2Clocks) By Jérémy Jeanson - A really simple clock for Fitbit OS with 2 hours. You can select the seconde clock time zone from settings. It use a font designed to make life easier for dyslexic people.
 * [MyDyslexicAircraft](https://github.com/JeremyJeanson/MyDyslexicAircraft) By Jérémy Jeanson - A fun and inclusive clock (work made for color blind, low vision and dyslexic). It use a font designed to make life easier for dyslexic people. It include digital and analog clock, stats, cylcle views.
@@ -52,6 +52,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [MyDyslexicClock](https://github.com/JeremyJeanson/MyDyslexicClock) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people.
 * [MyDyslexicStatsArc](https://github.com/JeremyJeanson/MyDyslexicStatsArc) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people. It include arcs to show your daily activity.
 * [MyDyslexicStatsSteps](https://github.com/JeremyJeanson/MyDyslexicStatsSteps) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people. It include counters and cylcle views.
+* [Omega Speedmaster](https://github.com/jensoncrawford/fitbit-omega-speedmaster) by Jenson Crawford - a set of Omega Speedmaster inspired analog faces
 * [Overview](https://github.com/BlythMeister/Fitbit-Overview-Face) by Chris Blyth - A stats heavy face inclusing on wrist detection and lots of customisable options.
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
