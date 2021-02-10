@@ -134,4 +134,4 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Webconfig Demo](https://github.com/dillpixel/fitbit-webconfig-demo) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
 
 ## Tools
-[Fitbit SDK5 Converter](https://github.com/cristian-swf/fitbit-sdk5-converter) by StarWatchfaces - A simple tool to convert your SDK4 project to SDK5
+* [Fitbit SDK5 Converter](https://github.com/cristian-swf/fitbit-sdk5-converter) by StarWatchfaces - A simple tool to convert your SDK4 project to SDK5
