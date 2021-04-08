@@ -15,6 +15,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Arcular](https://github.com/reverseloop/fitbit-arcular) by reverseloop - Simple and clear analog clock face for Ionic and Versa models.
 * [Borderlands](https://github.com/ViGouRCanberra/ionic-watchface-borderlands) by Le-Roux Enslin - A Watchface based on the UI of the PC game Borderlands 2
 * [Brick Face](https://github.com/tshiamobhuda/brickface) by Tshiamo Bhuda - Simple clock face inspired by the classic green/black monochromatic LED screen, all themed in a Brick style (Brick Game)
+* [Classic Clock](https://gallery.fitbit.com/details/ee20db7e-81ed-49d6-89b2-79dcb149418d) by [Aidan Black](https://github.com/aidanblack/Fitbit-ClassicClock) - Analog clock face with battery level and optional elements for date, weather, steps, distance, and active zone minutes.
 * [CleanFace](https://github.com/gnuchu/cleanface) by gnuchu - Simple clock face with heart rate and date.
 * [ClearBeam](https://gitlab.com/private-software/fitbit-clearbeam-watchface.git) by Sam - Clear watchface with heartrate-display and four progress-beams for steps, burned calories, elevation and active minutes.
 * [Cliff Star](https://github.com/orviwan/fitbit-cliff-star-clock) by Jon Barlow - Cinematic clock face example for Fitbit OS.
