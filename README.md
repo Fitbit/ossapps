@@ -31,6 +31,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [FitbitArcs](https://github.com/robro/FitbitArcs) by robro - A simple and circular watch face for Fitbit OS.
 * [Fitbit-Clock-Face](https://github.com/j-snow/Fitbit-Clock-Face) by J Snow - Fitbit Clock Face
 * [fitbit-minimalist-clock-face](https://github.com/chandanv89/fitbit-minimalist-clock-face) by Chandan Veerabhadrappa - A minimalistic clock-face for the new Fitbit Ionic.
+* [fitbit-mountain-face](https://github.com/volkanto/fitbit-mountain-face) by Volkan Tokmak - A beautiful dark and simple clock face with a mountain view and beautiful font. This simple clock face also has heart rate and battery information.
 * [FlashRing](https://gitlab.com/private-software/fitbit-flashring2-watchface.git) by Sam - Watchface with big clock, localised date and display of the current heartrate, steps, burned calories, elevation gain and active minutes.
 * [ForecastTime](https://github.com/cmspooner/ForecastTime) by Chris Spooner - A weather only version of Kearsarge Time. It includes two subscreens for the day's stats and 3 day forecast using Grégoire's weather api.
 * [Goal Rings](https://github.com/eblohm/fitbit-goal-rings) by Eric Blohm - Stats-heavy with rings to show progress towards each activity goal. For Fitbit Versa
@@ -56,6 +57,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
 * [Really Basic](https://github.com/gpfrello/FitbitOS-Really-Basic) by Giampaolo Frello - Really basic clockface with lots of comments to be able to understand the minimum components needed to build a digital clockface
+* [Reading Watch Face](https://github.com/volkanto/reading-watch-face) by Volkan Tokmak - A simple and beautiful digital clock face with battery information, heart rate, steps count and current day of the month on a reading girl with cat background. Book lovers will definitely like this watch face.
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
 * [Roni](https://github.com/baronVonPerko/fitbit-roni) by Chris Perko - Basic digital watchface that includes example of color settings on the companion, and touch to toggle between heartrate and step count.
 * [Schmancy](https://github.com/tyuen/fitbit-schmancy-face) by Terry Yuen - Analog watchface with customizable background image
