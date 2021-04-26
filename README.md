@@ -130,6 +130,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [HR Meter](https://github.com/Fitbit/sdk-hr-meter) by Team Fitbit - Fitbit SDK example application which displays readings from the Heart Rate sensor.
 * [IFTTT Web Service Demo](https://github.com/Fitbit/sdk-ifttt-demo) by Jon Barlow - Fitbit SDK example which demonstrates how to call a web service (REST API) using `fetch()`.
 * [LCD Clock Face](https://github.com/Fitbit/sdk-lcd-clock) by Jon Barlow - Fitbit SDK example application which looks like a retro LCD digital clock.
+* [Basic messaging (Device-Companion)] (https://github.com/santiagortiiz/Fitbit-sdk-device-companion-communication) by Santiago Ortiz - Communication template. Basic structure.
 * [Messaging Probe](https://github.com/adiroiban/fitbit-os-probe) by Adi Roiban - A ping tool. Send messages from your device and observe how they are received on the companion and then back to the device.
 * [SDK OAuth](https://github.com/Fitbit/sdk-oauth) by Jon Barlow - A sample application which uses the Settings API OAuth component, and the Fitbit Web API to query sleep data.
 * [Settings with File transfer](https://github.com/KiezelPay/fitbit-file-transfer-settings) by Kristof Verpoorten - Very simple example showing how to use the file transfer API for settings. As an added bonus settings are also stored on the watch and loaded from filesystem again on each app start.
