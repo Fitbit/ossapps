@@ -9,6 +9,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [0b1100 O'Clock](https://github.com/akosthekiss/0b1100oclock) by Akos Kiss - A binary clockface.
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
 * [Agenda Arc](https://github.com/matthewwardrop/fitbit-agenda-arc-clockface) by Matthew Wardrop - See your calendar events for the next ~7 hours rendered on a timeline arc.
+* [Analog Multi-Dial Chronometer](https://github.com/jensoncrawford/fitbit-multi-dial-chronometer) by [Jenson Crawford](https://github.com/jensoncrawford) - a tribute to classic analog multi-dial chronometers.
 * [Analog Stats](https://github.com/pmccrthy/fitbit-analog-stats) by Paul McCarthy - Analog clock face with stats and customizable colors.
 * [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Heavy customizable clock face.
 * [AND v2](https://github.com/ahsandar/ANDv2) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Time focused stats Heavy customizable clock face.
