@@ -72,6 +72,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [sudoVersa](https://github.com/PiSaucer/sudoVersa) by PiSaucer - Terminal Style Clockface your Versa for you Linux users or whoever wants to feel like they Versa can hack.
 * [Terminal](https://github.com/jdhartley/terminal-for-fitbit) by JD Hartley - Fitbit clock face styled to match a terminal session in a Unix environment.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
+* [Tracks](https://github.com/aidanblack/fitbit-tracks) by Aidan Black - Analog clock face inspired by classic modern railway clocks. Options for stats and weather, dark mode.
 
 ## Apps
 * [Air Quality](https://github.com/Ed2Bs/fitbit-air-quality-app) by Edin Bajrambasic - See air quality reports from 10k monitoring stations around the world.
