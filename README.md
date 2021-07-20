@@ -14,6 +14,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Heavy customizable clock face.
 * [AND v2](https://github.com/ahsandar/ANDv2) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Time focused stats Heavy customizable clock face.
 * [Arcular](https://github.com/reverseloop/fitbit-arcular) by reverseloop - Simple and clear analog clock face for Ionic and Versa models.
+* [Blue Beauty](https://github.com/devAttila87/watchface-blueb) by [Attila Varga](https://github.com/devAttila87) - Fake animated Planet Earth with night mode. Only for Versa 3.
 * [Borderlands](https://github.com/ViGouRCanberra/ionic-watchface-borderlands) by Le-Roux Enslin - A Watchface based on the UI of the PC game Borderlands 2
 * [Brick Face](https://github.com/tshiamobhuda/brickface) by Tshiamo Bhuda - Simple clock face inspired by the classic green/black monochromatic LED screen, all themed in a Brick style (Brick Game)
 * [Classic Clock](https://github.com/aidanblack/Fitbit-ClassicClock) by Aidan Black - Analog clock face with battery level and optional elements for date, weather, steps, distance, and active zone minutes.
@@ -60,6 +61,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
 * [Progress Pride](https://github.com/bjhawk/fitbit-clockface-progress) by Brendan Hawk - An LGBTQIA+ Pride themed and stats-heavy watchface for fitbit Sense and Versa 3
+* [Readable Clock](https://github.com/dougwaldron/readable-fitbit-clock) by Doug Waldron - A clock face designed for legibility with large font sizes.
 * [Really Basic](https://github.com/gpfrello/FitbitOS-Really-Basic) by Giampaolo Frello - Really basic clockface with lots of comments to be able to understand the minimum components needed to build a digital clockface
 * [Reading Watch Face](https://github.com/volkanto/reading-watch-face) by Volkan Tokmak - A simple and beautiful digital clock face with battery information, heart rate, steps count and current day of the month on a reading girl with cat background. Book lovers will definitely like this watch face.
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
@@ -73,6 +75,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Terminal](https://github.com/jdhartley/terminal-for-fitbit) by JD Hartley - Fitbit clock face styled to match a terminal session in a Unix environment.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
 * [Tracks](https://github.com/aidanblack/fitbit-tracks) by Aidan Black - Analog clock face inspired by classic modern railway clocks. Options for stats and weather, dark mode.
+* [Vedanta principles](https://github.com/eaccmk/Vedanta-principles-fitbit) by Millan Kaul - Get a daily motivational quote with time, day, date; without using internet.
 
 ## Apps
 * [Air Quality](https://github.com/Ed2Bs/fitbit-air-quality-app) by Edin Bajrambasic - See air quality reports from 10k monitoring stations around the world.
@@ -143,3 +146,8 @@ Note that Fitbit isn't responsible for the projects listed below.
 
 ## Tools
 * [Fitbit SDK5 Converter](https://github.com/cristian-swf/fitbit-sdk5-converter) by StarWatchfaces - A simple tool to convert your SDK4 project to SDK5
+* [Fitbit Sim App File Finder](https://github.com/gondwanasoft/fitbit-sim-app-file-finder) by Gondwana Software - A Windows cmd (.bat) file that shows you where your clockface/app files are stored on the Fitbit OS simulator.
+
+## Widgets
+* [curved-text-widget](https://github.com/BarbWire-1/curved-text) by Gondwana & BarbWire - A widget to use built-in fonts for curving multiple texts
+
