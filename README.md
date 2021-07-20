@@ -143,3 +143,6 @@ Note that Fitbit isn't responsible for the projects listed below.
 
 ## Tools
 * [Fitbit SDK5 Converter](https://github.com/cristian-swf/fitbit-sdk5-converter) by StarWatchfaces - A simple tool to convert your SDK4 project to SDK5
+
+## Widgets
+* [curved-text-widget](https://github.com/BarbWire-1/curved-text) by Gondwana & BarbWire - A widget to use built-in fonts for curving multiple texts
