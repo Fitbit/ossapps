@@ -59,6 +59,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
 * [Progress Pride](https://github.com/bjhawk/fitbit-clockface-progress) by Brendan Hawk - An LGBTQIA+ Pride themed and stats-heavy watchface for fitbit Sense and Versa 3
+* [Readable Clock](https://github.com/dougwaldron/readable-fitbit-clock) by Doug Waldron - A clock face designed for legibility with large font sizes.
 * [Really Basic](https://github.com/gpfrello/FitbitOS-Really-Basic) by Giampaolo Frello - Really basic clockface with lots of comments to be able to understand the minimum components needed to build a digital clockface
 * [Reading Watch Face](https://github.com/volkanto/reading-watch-face) by Volkan Tokmak - A simple and beautiful digital clock face with battery information, heart rate, steps count and current day of the month on a reading girl with cat background. Book lovers will definitely like this watch face.
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
