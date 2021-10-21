@@ -130,6 +130,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Weather module for Fitbit OS (types)](https://github.com/JeremyJeanson/fitbit-weather-types) by Jérémy Jeanson - Include type defintions to use "Weather module for Fitbit OS" with TypeScript.
 
 ## Examples
+* [Accelerometer Fetcher](https://github.com/gondwanasoft/fitbit-accel-fetcher) by Gondwana Software - demonstrates how to collect, store and send sensor data to a server for download.
 * [Altimeter](https://github.com/Fitbit/sdk-altimeter) by Team Fitbit - Fitbit SDK example application which simulates an altimeter using the Barometer sensor.
 * [Bay Area Rapid Transit (BART)](https://github.com/Fitbit/sdk-bart) by Thomas Sarlandie - Fitbit SDK example application which downloads real-time BART data and show upcoming trains for a station of your choice.
 * [Communications Demo](https://github.com/sammachin/Fitbit-MessageDemo) by Sam Machin - Example app for the Fitbit Ionic showing Messaging and Fetch to a basic WebAPI.
@@ -145,6 +146,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Webconfig Demo](https://github.com/dillpixel/fitbit-webconfig-demo) by David Jones - Opens a new web view from the settings view, collects input from the user, and then returns the input to the settings view.
 
 ## Tools
+* [Android Fitbit Fetcher](https://github.com/gondwanasoft/android-fitbit-fetcher) by Gondwana Software - demonstrates how to receive data from a Fitbit app and make it available for download.
 * [Fitbit SDK5 Converter](https://github.com/cristian-swf/fitbit-sdk5-converter) by StarWatchfaces - A simple tool to convert your SDK4 project to SDK5
 * [Fitbit Sim App File Finder](https://github.com/gondwanasoft/fitbit-sim-app-file-finder) by Gondwana Software - A Windows cmd (.bat) file that shows you where your clockface/app files are stored on the Fitbit OS simulator.
 
