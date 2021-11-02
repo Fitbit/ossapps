@@ -17,6 +17,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Blue Beauty](https://github.com/devAttila87/watchface-blueb) by [Attila Varga](https://github.com/devAttila87) - Fake animated Planet Earth with night mode. Only for Versa 3.
 * [Borderlands](https://github.com/ViGouRCanberra/ionic-watchface-borderlands) by Le-Roux Enslin - A Watchface based on the UI of the PC game Borderlands 2
 * [Brick Face](https://github.com/tshiamobhuda/brickface) by Tshiamo Bhuda - Simple clock face inspired by the classic green/black monochromatic LED screen, all themed in a Brick style (Brick Game)
+* [Circles](https://github.com/cgguardian/circles) by Chris Merpaw - a stat-heavy and colourful clock face.
 * [Classic Clock](https://github.com/aidanblack/Fitbit-ClassicClock) by Aidan Black - Analog clock face with battery level and optional elements for date, weather, steps, distance, and active zone minutes.
 * [CleanFace](https://github.com/gnuchu/cleanface) by gnuchu - Simple clock face with heart rate and date.
 * [ClearBeam](https://gitlab.com/private-software/fitbit-clearbeam-watchface.git) by Sam - Clear watchface with heartrate-display and four progress-beams for steps, burned calories, elevation and active minutes.
@@ -47,10 +48,11 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Minimalist Clock Face](https://github.com/OSSClockApps/MinimalistClockFace) by Lukas Panni - A very simple clock face
 * [MinimalistStats](https://github.com/OSSClockApps/MinimalStatsClockface) by Lukas Panni - Minimalist design combined with activity stats.
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
+* [Modern Cold Park](https://github.com/cgguardian/cold_park) by Chris Merpaw - simple clock face with a rainy and cold feel to it.
  * [Moment](https://github.com/gurumukhi/fitbit-momet-app) by Ram - Fitbit ClockFace showing live count of seconds lived so far - to inspire 'living in moment'.
 * [MStyleDigital](https://github.com/mihaibabusca/FitbitOS-MPowerClockface) by Mihai Babusca - Simple digital watchface (uses basic UI elements: image, label, rect).
 * [MyDyslexic2Clocks](https://github.com/JeremyJeanson/MyDyslexic2Clocks) By Jérémy Jeanson - A really simple clock for Fitbit OS with 2 hours. You can select the seconde clock time zone from settings. It use a font designed to make life easier for dyslexic people.
-* [MyDyslexicAircraft](https://github.com/JeremyJeanson/MyDyslexicAircraft) By Jérémy Jeanson - A fun and inclusive clock (work made for color blind, low vision and dyslexic). It use a font designed to make life easier for dyslexic people. It include digital and analog clock, stats, cylcle views.
+* [MyDyslexicAircraft](https://github.com/JeremyJeanson/MyDyslexicAircraft) By Jérémy Jeanson - A fun and inclusive clock (work made for color blind, low vision and dyslexic). It use a font designed to make life easier for dyslexic people. It include digital and analog clock, stats, cycle views.
 * [MyDyslexicArcs](https://github.com/JeremyJeanson/MyDyslexicArcs) By Jérémy Jeanson - A fun and inclusive clock (work made for color blind, low vision and dyslexic). It use a font designed to make life easier for dyslexic people.
 * [MyDyslexicBars](https://github.com/JeremyJeanson/MyDyslexicBars) By Jérémy Jeanson - A fun and inclusive clock (work made for color blind, low vision and dyslexic). It use a font designed to make life easier for dyslexic people.
 * [MyDyslexicBigArcs](https://github.com/JeremyJeanson/MyDyslexicBigArcs) By Jérémy Jeanson - A really simple and fun clock that use a font designed to make life easier for dyslexic people. It include arcs, counters, cylcle views.
