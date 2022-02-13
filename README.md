@@ -69,6 +69,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
 * [Roni](https://github.com/baronVonPerko/fitbit-roni) by Chris Perko - Basic digital watchface that includes example of color settings on the companion, and touch to toggle between heartrate and step count.
 * [Schmancy](https://github.com/tyuen/fitbit-schmancy-face) by Terry Yuen - Analog watchface with customizable background image
+* [Season Star Pet](https://github.com/SarahBass/Season-Star-Pet-Fitbit-Clockface) by Sarah Bass - Animated Clock face Versa 3 6.0 with Daily Background Changes and Heavy Stats.
 * [Sleek & Modern](https://github.com/Mayer-Studios/Sleek-and-Modern) by Mayer Studios - Analog clockface with activity rings, weather, settings, and more.
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
 * [Springtime](https://github.com/rhondachill/Springtime-Fitbit) by Rhonda Hill - A simple springtime themed digital watchface for Fitbit OS. Compatible with Fitbit Versa & Fitbit Ionic.
