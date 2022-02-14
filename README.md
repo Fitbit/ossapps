@@ -46,6 +46,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Metrix](https://github.com/rootasjey/metrix-fitbit) by Jérémie Corpinot - A metrics clock face
 * [Minimal Design](https://github.com/Samurai016/Minimal-Design) by Nicolò Rebaioli - Minimal watch face for Fitbit Versa family.
 * [Minimalist Clock Face](https://github.com/OSSClockApps/MinimalistClockFace) by Lukas Panni - A very simple clock face
+* [Minimalistic Digital](https://github.com/ibizabroker/minimalistic-digital) by [Tarun Gowda](https://github.com/ibizabroker) - A clock face with minimalistic look and various customizations.
 * [MinimalistStats](https://github.com/OSSClockApps/MinimalStatsClockface) by Lukas Panni - Minimalist design combined with activity stats.
 * [Mock Hermes Watch](https://github.com/sakebook/mock-hermes-watch) by sakebook - Fitbit Clock Face like a Apple Watch Hermès
 * [Modern Cold Park](https://github.com/cgguardian/cold_park) by Chris Merpaw - simple clock face with a rainy and cold feel to it.
