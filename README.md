@@ -111,6 +111,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 
 ## Games
 * [Jacadi](https://github.com/gregoiresage/jacadi/) by Grégoire Sage - Jacadi game for Fitbit Ionic
+* [Morse Code Game](https://github.com/SarahBass/MorseCodeGame) by Sarah Bass - Learning game for Fitbit Versa 3
 
 ## Modules
 * [Color Picker for Fitbit OS](https://github.com/maximDevTweet/fitbit-color-picker) by Maxim - Color picker component wrapped in a watch face for Fitbit devices.
