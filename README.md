@@ -14,6 +14,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [AND v1](https://github.com/ahsandar/ANDv1) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Stats Heavy customizable clock face.
 * [AND v2](https://github.com/ahsandar/ANDv2) by [Ahsan Nabi Dar](https://github.com/ahsandar) - Time focused stats Heavy customizable clock face.
 * [Arcular](https://github.com/reverseloop/fitbit-arcular) by reverseloop - Simple and clear analog clock face for Ionic and Versa models.
+* [BIG TIME](https://github.com/gondwanasoft/fitbit-big-time) by Gondwana Software - A simple SDK5/6 clockface that demonstrates settings (including ImagePicker), file transfer and AOD.
 * [Blue Beauty](https://github.com/devAttila87/watchface-blueb) by [Attila Varga](https://github.com/devAttila87) - Fake animated Planet Earth with night mode. Only for Versa 3.
 * [Borderlands](https://github.com/ViGouRCanberra/ionic-watchface-borderlands) by Le-Roux Enslin - A Watchface based on the UI of the PC game Borderlands 2
 * [Brick Face](https://github.com/tshiamobhuda/brickface) by Tshiamo Bhuda - Simple clock face inspired by the classic green/black monochromatic LED screen, all themed in a Brick style (Brick Game)
