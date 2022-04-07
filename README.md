@@ -26,6 +26,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Clock64](https://github.com/akosthekiss/clock64) by Akos Kiss - A C64-inspired clockface.
 * [Colorful Face](https://github.com/Mayer-Studios/colorfulface) by Mayer Studios - Simple fitbitOS clockface that shows you how to use weather, HR, activity, and background images.
 * [Darkface](https://github.com/rootasjey/darkface) by Jérémie Corpinot - Minimalistic dark clockface with bold/light typography
+* [DayBreak](https://github.com/elliotwutingfeng/DayBreak) by Wu Tingfeng - Fitbit Clock Face for tracking imminent phase of day (e.g. Civil Twilight, Golden Hour, Astronomical Dusk etc.) by calculating sun position timings.
 * [Dexcomedy](https://github.com/aud/dexcomedy) by Elliot Dohm - A clockface for diabetics to see your current blood sugar levels.
 * [Die Zeit](https://github.com/Shpota/zeit) by [Sasha Shpota](https://github.com/Shpota) - A clock face for learners of the German language (written in TypeScript and covered with unit tests).
 * [Doge Watch](https://github.com/tylerl0706/DogeWatch-Fitbit) by Tyler Leonhardt - such time. very watchface. wow.
