@@ -82,6 +82,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
 * [Tracks](https://github.com/aidanblack/fitbit-tracks) by Aidan Black - Analog clock face inspired by classic modern railway clocks. Options for stats and weather, dark mode.
 * [Vedanta principles](https://github.com/eaccmk/Vedanta-principles-fitbit) by Millan Kaul - Get a daily motivational quote with time, day, date; without using internet.
+* [WeatherNerd](https://github.com/alessandroame/FitBit-WeatherNerd-Watchface) by Alessandro Amé - Minutly / hourly forecast oriented analog watchface.
 
 ## Apps
 * [Air Quality](https://github.com/Ed2Bs/fitbit-air-quality-app) by Edin Bajrambasic - See air quality reports from 10k monitoring stations around the world.
