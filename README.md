@@ -6,7 +6,6 @@ A non-exhaustive list of open source clock faces, applications and modules from 
 Note that Fitbit isn't responsible for the projects listed below.
 
 ## Clock faces
-* [Intermittent Fasting Clockface](https://github.com/urigoren/IntermittentFastingFitbit) by Uri Goren - A simple clockface for intermittent fasters.
 * [0b1100 O'Clock](https://github.com/akosthekiss/0b1100oclock) by Akos Kiss - A binary clockface.
 * [AcidClock](https://github.com/anha1/fitbit-acidclock) by Anton H. - stats-heavy and customizable clock face.
 * [Agenda Arc](https://github.com/matthewwardrop/fitbit-agenda-arc-clockface) by Matthew Wardrop - See your calendar events for the next ~7 hours rendered on a timeline arc.
@@ -43,6 +42,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [ForecastTime](https://github.com/cmspooner/ForecastTime) by Chris Spooner - A weather only version of Kearsarge Time. It includes two subscreens for the day's stats and 3 day forecast using Grégoire's weather api.
 * [Gauges](https://github.com/aidanblack/fitbit-gauges) by Aidan Black - Analog clock with date/time, battery, heart rate, steps, distance, active zone minutes, weather and sunset/sunrise.
 * [Goal Rings](https://github.com/eblohm/fitbit-goal-rings) by Eric Blohm - Stats-heavy with rings to show progress towards each activity goal. For Fitbit Versa
+* [Intermittent Fasting Clockface](https://github.com/urigoren/IntermittentFastingFitbit) by Uri Goren - A simple clockface for intermittent fasters.
 * [Kearsarge-Time](https://github.com/cmspooner/Kearsarge-Time-for-Fitbit-Ionic) by Chris Spooner - A Watchface for Ionic and Versa that shows the current period and time remaining for Kearsarge High School. It includes two subscreens for the day's stats and the day's schedule. Code is written to be easily adapted for other schedules by editing Schedule.js. When not in school it now shows the weather and 3 day forecast using Grégoire's weather api.
 * [Luxury Clean](https://github.com/TyDSmith/luxury-clean) by Ty Daniel Smith - A simplistic yet classic design, similar to that featured on timeless luxury watches.
 * [Medical Professional](https://github.com/mmk0083/fitbit-mp-clock) by mmk0083 - Simple analog clock for easily taking vitals. Tap the device screen to lock the screen on. Tap again to restore auto-off. Also includes a night-mode that shifts color during specified hours.
