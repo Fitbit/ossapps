@@ -39,6 +39,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [fitbit-minimalist-clock-face](https://github.com/chandanv89/fitbit-minimalist-clock-face) by Chandan Veerabhadrappa - A minimalistic clock-face for the new Fitbit Ionic.
 * [fitbit-mountain-face](https://github.com/volkanto/fitbit-mountain-face) by Volkan Tokmak - A beautiful dark and simple clock face with a mountain view and beautiful font. This simple clock face also has heart rate and battery information.
 * [FlashRing](https://gitlab.com/private-software/fitbit-flashring2-watchface.git) by Sam - Watchface with big clock, localised date and display of the current heartrate, steps, burned calories, elevation gain and active minutes.
+* [Focus](https://github.com/vasyltech/fitbit-focus) by Vasyl Martyniuk - Fitbit Clock Face that reminds you to stay focus on your goal for defined period of time. It is stats heavy, simple and comes with settings page where you can configure the Clock Face's behavior.
 * [ForecastTime](https://github.com/cmspooner/ForecastTime) by Chris Spooner - A weather only version of Kearsarge Time. It includes two subscreens for the day's stats and 3 day forecast using Grégoire's weather api.
 * [Gauges](https://github.com/aidanblack/fitbit-gauges) by Aidan Black - Analog clock with date/time, battery, heart rate, steps, distance, active zone minutes, weather and sunset/sunrise.
 * [Goal Rings](https://github.com/eblohm/fitbit-goal-rings) by Eric Blohm - Stats-heavy with rings to show progress towards each activity goal. For Fitbit Versa
