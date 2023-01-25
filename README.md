@@ -71,6 +71,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Readable Clock](https://github.com/dougwaldron/readable-fitbit-clock) by Doug Waldron - A clock face designed for legibility with large font sizes.
 * [Really Basic](https://github.com/gpfrello/FitbitOS-Really-Basic) by Giampaolo Frello - Really basic clockface with lots of comments to be able to understand the minimum components needed to build a digital clockface
 * [Reading Watch Face](https://github.com/volkanto/reading-watch-face) by Volkan Tokmak - A simple and beautiful digital clock face with battery information, heart rate, steps count and current day of the month on a reading girl with cat background. Book lovers will definitely like this watch face.
+* [Retro Pixel Pet](https://github.com/SarahBass/Retro-Pixel-Pet) by Sarah Bass - An animated watch that shows a simulated pixel pet which evolves based on steps. It senses Jumping Jacks to give pet health. 
 * [RoksbotTime](https://github.com/cmspooner/RoksbotTime) by Chris Spooner - A very basic image based watchface for FIRST Robotics Team 1247; Roksbot!
 * [Roni](https://github.com/baronVonPerko/fitbit-roni) by Chris Perko - Basic digital watchface that includes example of color settings on the companion, and touch to toggle between heartrate and step count.
 * [Schmancy](https://github.com/tyuen/fitbit-schmancy-face) by Terry Yuen - Analog watchface with customizable background image
@@ -84,6 +85,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
 * [Tracks](https://github.com/aidanblack/fitbit-tracks) by Aidan Black - Analog clock face inspired by classic modern railway clocks. Options for stats and weather, dark mode.
 * [Vedanta principles](https://github.com/eaccmk/Vedanta-principles-fitbit) by Millan Kaul - Get a daily motivational quote with time, day, date; without using internet.
+* [Virtual Pet Shiba](https://github.com/SarahBass/VirtualPetShiba) by Sarah Bass - Clock shows virtual shiba that changes its mood based on steps. Monthly changing background. Changes animations every 10 minutes. 
 * [WeatherNerd](https://github.com/alessandroame/FitBit-WeatherNerd-Watchface) by Alessandro Amé - Minutly / hourly forecast oriented analog watchface.
 
 ## Apps
