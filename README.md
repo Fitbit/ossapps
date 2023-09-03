@@ -163,8 +163,10 @@ Note that Fitbit isn't responsible for the projects listed below.
 
 ## Tools
 * [Android Fitbit Fetcher](https://github.com/gondwanasoft/android-fitbit-fetcher) by Gondwana Software - demonstrates how to receive data from a Fitbit app and make it available for download.
+* [File Saver](https://github.com/gondwanasoft/fitbit-file-saver) by Gondwana Software - A Python server that saves files sent from a Fitbit OS app. A Fitbit app that sends accelerometer data is included.
 * [Fitbit SDK5 Converter](https://github.com/cristian-swf/fitbit-sdk5-converter) by StarWatchfaces - A simple tool to convert your SDK4 project to SDK5
 * [Fitbit Sim App File Finder](https://github.com/gondwanasoft/fitbit-sim-app-file-finder) by Gondwana Software - A Windows cmd (.bat) file that shows you where your clockface/app files are stored on the Fitbit OS simulator.
+* [Stream Bridge](https://github.com/gondwanasoft/fitbit-stream-bridge) by Gondwana Software - a demonstration of sending real-time data (eg, accelerometer) between Fitbit OS and a LAN client via a Python server.
 
 ## Widgets
 * [curved-text-widget](https://github.com/BarbWire-1/curved-text) by Gondwana & BarbWire - A widget to use built-in fonts for curving multiple texts
