@@ -101,6 +101,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Knit Counter](https://github.com/zaneduffield/knit-counter) by Zane Duffield - An app for tracking repeat increments in knitting patterns.
 * [Lightest](https://github.com/alicescfernandes/fitbit-lightest) by Alice Fernandes - A flashlight app for fitbit versa 3 and sense
 * [Map](https://github.com/tyuen/fitbit-map-app) by Terry Yuen - Shows a panable and zoomable map of your current location using the HERE platform
+* [Pet Hamster](https://github.com/SachinSAgrawal/Pet-Hamster-Fitbit) by Sachin Agrawal - An app to watch a hamster running on the wheel in his cage, with a few additional features.
 * [Pomodoro](https://github.com/johnliu55tw/Pomodoro-Ionic) by John Liu - The Pomodoro timer. This is an app version of the [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic), which only has basic functions.
 * [RPN Calculator](https://github.com/freakified/RPNCalculatorFitbit) by Dan Tilden - An RPN calculator for Fitbit!
 * [Run Goal](https://github.com/kencaron/fitbit-os-run-goal-app) by Ken Caron - Displays your weekly running activity. Mildly typescript enhanced, uses Web API, settings, refreshes your access tokens, leverages the File Transfer API for communication.
