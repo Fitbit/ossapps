@@ -78,6 +78,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Schmancy](https://github.com/tyuen/fitbit-schmancy-face) by Terry Yuen - Analog watchface with customizable background image
 * [Season Star Watch](https://github.com/SarahBass/Season-Star-Pet-Fitbit-Clockface.git) by Sarah Bass- Animated, Stats Heavy, daily & hourly events.
 * [Sleek & Modern](https://github.com/Mayer-Studios/Sleek-and-Modern) by Mayer Studios - Analog clockface with activity rings, weather, settings, and more.
+* [SM Miles Skill Tree](https://github.com/areddicks1014/fitbit-sm-miles-skill-tree-hd) by augmented.alex - Digital watchface based on the Skill Tree design from Insomniac's Spider-Man Miles Morales game for PS4/5 with battery, steps, calories, active zone minutes, and heart rate stats (colors highlight when daily goals are met).
 * [Snowflake](https://github.com/mihaibabusca/FitbitOS-SnowflakeClockface) by Mihai Babusca - Digital animated watchface simulating a snowing effect
 * [Springtime](https://github.com/rhondachill/Springtime-Fitbit) by Rhonda Hill - A simple springtime themed digital watchface for Fitbit OS. Compatible with Fitbit Versa & Fitbit Ionic.
 * [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
